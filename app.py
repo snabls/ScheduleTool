@@ -103,7 +103,7 @@ for d in docenti:
         f.write("""{
     "orario": [
         {
-            "Lunedì": {
+            "Lun": {
                 "I": null,
                 "II": null,
                 "III": null,
@@ -113,7 +113,7 @@ for d in docenti:
             }
         },
         {
-            "Martedì": {
+            "Mar": {
                 "I": null,
                 "II": null,
                 "III": null,
@@ -123,7 +123,7 @@ for d in docenti:
             }
         },
         {
-            "Mercoledì": {
+            "Mer": {
                 "I": null,
                 "II": null,
                 "III": null,
@@ -133,7 +133,7 @@ for d in docenti:
             }
         },
         {
-            "Giovedì": {
+            "Gio": {
                 "I": null,
                 "II": null,
                 "III": null,
@@ -143,7 +143,7 @@ for d in docenti:
             }
         },
         {
-            "Venerdì": {
+            "Ven": {
                 "I": null,
                 "II": null,
                 "III": null,
@@ -153,12 +153,12 @@ for d in docenti:
             }
         },
         {
-            "Sabato": {
+            "Sab": {
                 "I": null,
                 "II": null,
                 "III": null,
                 "IV": null,
-                "V": null,
+                "V": null
             }
         }
     ]
