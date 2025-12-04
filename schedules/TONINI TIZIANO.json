@@ -1,0 +1,63 @@
+{
+    "orario": [
+        {
+            "Lun": {
+                "I": "Lab 23",
+                "II": "Lab 23",
+                "III": "Potenziamento",
+                "IV": "Lab 23",
+                "V": "Lab 23",
+                "VI": null
+            }
+        },
+        {
+            "Mar": {
+                "I": "Lab 23",
+                "II": "Lab 23",
+                "III": null,
+                "IV": null,
+                "V": null,
+                "VI": null
+            }
+        },
+        {
+            "Mer": {
+                "I": null,
+                "II": null,
+                "III": null,
+                "IV": "Potenziamento",
+                "V": "Potenziamento",
+                "VI": null
+            }
+        },
+        {
+            "Gio": {
+                "I": null,
+                "II": null,
+                "III": null,
+                "IV": null,
+                "V": null,
+                "VI": null
+            }
+        },
+        {
+            "Ven": {
+                "I": "Lab 23",
+                "II": "Lab 23",
+                "III": "Lab 23",
+                "IV": "Lab 23",
+                "V": "Potenziamento",
+                "VI": null
+            }
+        },
+        {
+            "Sab": {
+                "I": null,
+                "II": "Lab 23",
+                "III": "Lab 23",
+                "IV": "Lab 23",
+                "V": "Lab 23"
+            }
+        }
+    ]
+}

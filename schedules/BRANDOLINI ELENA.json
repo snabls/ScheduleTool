@@ -1,0 +1,63 @@
+{
+    "orario": [
+        {
+            "Lun": {
+                "I": "55",
+                "II": "Vicepresidenza",
+                "III": "Potenziamento",
+                "IV": "Potenziamento",
+                "V": null,
+                "VI": null
+            }
+        },
+        {
+            "Mar": {
+                "I": null,
+                "II": "Vicepresidenza",
+                "III": "Potenziamento",
+                "IV": "31",
+                "V": "31",
+                "VI": "78"
+            }
+        },
+        {
+            "Mer": {
+                "I": null,
+                "II": null,
+                "III": null,
+                "IV": null,
+                "V": null,
+                "VI": null
+            }
+        },
+        {
+            "Gio": {
+                "I": "31",
+                "II": "Vicepresidenza",
+                "III": "Potenziamento",
+                "IV": "31",
+                "V": null,
+                "VI": null
+            }
+        },
+        {
+            "Ven": {
+                "I": null,
+                "II": "Vicepresidenza",
+                "III": "38Bis",
+                "IV": "38Bis",
+                "V": "31",
+                "VI": "31"
+            }
+        },
+        {
+            "Sab": {
+                "I": "Vicepresidenza",
+                "II": "Potenziamento",
+                "III": "Potenziamento",
+                "IV": "31",
+                "V": "31"
+            }
+        }
+    ]
+}

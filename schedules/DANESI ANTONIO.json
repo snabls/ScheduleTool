@@ -1,0 +1,63 @@
+{
+    "orario": [
+        {
+            "Lun": {
+                "I": null,
+                "II": null,
+                "III": "04",
+                "IV": "55",
+                "V": "78",
+                "VI": "69"
+            }
+        },
+        {
+            "Mar": {
+                "I": null,
+                "II": null,
+                "III": "Lab Fisica",
+                "IV": "Lab Fisica",
+                "V": "CAT-05",
+                "VI": "43"
+            }
+        },
+        {
+            "Mer": {
+                "I": null,
+                "II": "56",
+                "III": "43",
+                "IV": null,
+                "V": "50",
+                "VI": null
+            }
+        },
+        {
+            "Gio": {
+                "I": null,
+                "II": null,
+                "III": null,
+                "IV": null,
+                "V": null,
+                "VI": null
+            }
+        },
+        {
+            "Ven": {
+                "I": null,
+                "II": null,
+                "III": "Lab Fisica",
+                "IV": "Lab Fisica",
+                "V": "43",
+                "VI": null
+            }
+        },
+        {
+            "Sab": {
+                "I": null,
+                "II": "Lab Fisica",
+                "III": "Lab Fisica",
+                "IV": "56",
+                "V": "56"
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "orario": [
+        {
+            "Lun": {
+                "I": null,
+                "II": null,
+                "III": null,
+                "IV": null,
+                "V": null,
+                "VI": null
+            }
+        },
+        {
+            "Mar": {
+                "I": "48",
+                "II": "54",
+                "III": null,
+                "IV": null,
+                "V": null,
+                "VI": null
+            }
+        },
+        {
+            "Mer": {
+                "I": "48",
+                "II": "48",
+                "III": "55",
+                "IV": "54",
+                "V": null,
+                "VI": null
+            }
+        },
+        {
+            "Gio": {
+                "I": "55",
+                "II": "55",
+                "III": "55",
+                "IV": "78",
+                "V": "78",
+                "VI": null
+            }
+        },
+        {
+            "Ven": {
+                "I": "48",
+                "II": "55",
+                "III": null,
+                "IV": "78",
+                "V": null,
+                "VI": null
+            }
+        },
+        {
+            "Sab": {
+                "I": "48",
+                "II": "48",
+                "III": "54",
+                "IV": null,
+                "V": "55"
+            }
+        }
+    ]
+}

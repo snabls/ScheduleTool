@@ -1,0 +1,63 @@
+{
+    "orario": [
+        {
+            "Lun": {
+                "I": "CAT-09",
+                "II": null,
+                "III": "Potenziamento",
+                "IV": "CAT-04",
+                "V": "CAT-05",
+                "VI": null
+            }
+        },
+        {
+            "Mar": {
+                "I": "CAT-09",
+                "II": "CAT-05",
+                "III": null,
+                "IV": null,
+                "V": null,
+                "VI": null
+            }
+        },
+        {
+            "Mer": {
+                "I": "CAT-10",
+                "II": "Potenziamento",
+                "III": "50",
+                "IV": "CAT-05",
+                "V": null,
+                "VI": null
+            }
+        },
+        {
+            "Gio": {
+                "I": "CAT-09",
+                "II": "CAT-05",
+                "III": "Potenziamento",
+                "IV": "CAT-10",
+                "V": "50",
+                "VI": null
+            }
+        },
+        {
+            "Ven": {
+                "I": null,
+                "II": null,
+                "III": null,
+                "IV": null,
+                "V": null,
+                "VI": null
+            }
+        },
+        {
+            "Sab": {
+                "I": "CAT-01",
+                "II": "CAT-10",
+                "III": "50",
+                "IV": null,
+                "V": null
+            }
+        }
+    ]
+}

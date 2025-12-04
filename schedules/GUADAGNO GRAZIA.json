@@ -1,0 +1,63 @@
+{
+    "orario": [
+        {
+            "Lun": {
+                "I": null,
+                "II": "28",
+                "III": null,
+                "IV": "Potenziamento",
+                "V": "25",
+                "VI": null
+            }
+        },
+        {
+            "Mar": {
+                "I": null,
+                "II": null,
+                "III": null,
+                "IV": null,
+                "V": null,
+                "VI": null
+            }
+        },
+        {
+            "Mer": {
+                "I": "28",
+                "II": null,
+                "III": "25",
+                "IV": "56",
+                "V": "31",
+                "VI": null
+            }
+        },
+        {
+            "Gio": {
+                "I": "56",
+                "II": null,
+                "III": "28",
+                "IV": "50",
+                "V": null,
+                "VI": null
+            }
+        },
+        {
+            "Ven": {
+                "I": "25",
+                "II": "44",
+                "III": "Potenziamento",
+                "IV": "Potenziamento",
+                "V": "78",
+                "VI": null
+            }
+        },
+        {
+            "Sab": {
+                "I": "25",
+                "II": "78",
+                "III": "56",
+                "IV": null,
+                "V": null
+            }
+        }
+    ]
+}

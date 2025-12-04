@@ -1,0 +1,63 @@
+{
+    "orario": [
+        {
+            "Lun": {
+                "I": null,
+                "II": null,
+                "III": null,
+                "IV": null,
+                "V": "Lab LT",
+                "VI": "Lab LT"
+            }
+        },
+        {
+            "Mar": {
+                "I": "Lab 38",
+                "II": "Lab 38",
+                "III": "Lab 39",
+                "IV": "Lab 39",
+                "V": "Lab 46",
+                "VI": "Lab 46"
+            }
+        },
+        {
+            "Mer": {
+                "I": null,
+                "II": null,
+                "III": "Lab 46",
+                "IV": null,
+                "V": "Lab 38",
+                "VI": "Lab 38"
+            }
+        },
+        {
+            "Gio": {
+                "I": null,
+                "II": null,
+                "III": null,
+                "IV": "Lab 39",
+                "V": "Lab 39",
+                "VI": "Lab 38"
+            }
+        },
+        {
+            "Ven": {
+                "I": "Lab 51",
+                "II": "Lab 51",
+                "III": "Lab 47",
+                "IV": null,
+                "V": "Lab 39",
+                "VI": null
+            }
+        },
+        {
+            "Sab": {
+                "I": null,
+                "II": null,
+                "III": null,
+                "IV": null,
+                "V": null
+            }
+        }
+    ]
+}

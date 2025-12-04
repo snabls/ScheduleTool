@@ -1,0 +1,63 @@
+{
+    "orario": [
+        {
+            "Lun": {
+                "I": null,
+                "II": null,
+                "III": null,
+                "IV": null,
+                "V": "Lab Chimica",
+                "VI": "Lab Chimica"
+            }
+        },
+        {
+            "Mar": {
+                "I": null,
+                "II": null,
+                "III": null,
+                "IV": null,
+                "V": null,
+                "VI": null
+            }
+        },
+        {
+            "Mer": {
+                "I": null,
+                "II": null,
+                "III": null,
+                "IV": null,
+                "V": null,
+                "VI": null
+            }
+        },
+        {
+            "Gio": {
+                "I": "Lab Chimica",
+                "II": "Lab Chimica",
+                "III": null,
+                "IV": null,
+                "V": "Lab Chimica",
+                "VI": "Lab Chimica"
+            }
+        },
+        {
+            "Ven": {
+                "I": null,
+                "II": null,
+                "III": null,
+                "IV": null,
+                "V": null,
+                "VI": null
+            }
+        },
+        {
+            "Sab": {
+                "I": null,
+                "II": "Lab Chimica",
+                "III": "Lab Chimica",
+                "IV": "Lab Chimica",
+                "V": "Lab Chimica"
+            }
+        }
+    ]
+}

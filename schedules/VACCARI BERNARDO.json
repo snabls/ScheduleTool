@@ -1,0 +1,63 @@
+{
+    "orario": [
+        {
+            "Lun": {
+                "I": null,
+                "II": "Palestra2",
+                "III": "Palestra2",
+                "IV": null,
+                "V": "Palestra1",
+                "VI": "Palestra1"
+            }
+        },
+        {
+            "Mar": {
+                "I": "SabbioneA",
+                "II": "SabbioneA",
+                "III": null,
+                "IV": null,
+                "V": null,
+                "VI": null
+            }
+        },
+        {
+            "Mer": {
+                "I": null,
+                "II": null,
+                "III": null,
+                "IV": null,
+                "V": null,
+                "VI": null
+            }
+        },
+        {
+            "Gio": {
+                "I": "Palestra1",
+                "II": "Palestra1",
+                "III": null,
+                "IV": "Palestra2",
+                "V": "Palestra2",
+                "VI": null
+            }
+        },
+        {
+            "Ven": {
+                "I": "Palestra1",
+                "II": "Palestra1",
+                "III": "Palestra2",
+                "IV": "Palestra2",
+                "V": null,
+                "VI": null
+            }
+        },
+        {
+            "Sab": {
+                "I": "PalestraComA",
+                "II": "PalestraComA",
+                "III": null,
+                "IV": "PalestraComB",
+                "V": "PalestraComB"
+            }
+        }
+    ]
+}

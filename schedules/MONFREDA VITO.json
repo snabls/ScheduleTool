@@ -1,0 +1,63 @@
+{
+    "orario": [
+        {
+            "Lun": {
+                "I": null,
+                "II": null,
+                "III": null,
+                "IV": "Lab CAD",
+                "V": "Lab CAD",
+                "VI": null
+            }
+        },
+        {
+            "Mar": {
+                "I": null,
+                "II": null,
+                "III": null,
+                "IV": null,
+                "V": "CAD",
+                "VI": "CAD"
+            }
+        },
+        {
+            "Mer": {
+                "I": "Lab CAD",
+                "II": "Lab CAD",
+                "III": "Lab CAD",
+                "IV": "Lab CAD",
+                "V": "28",
+                "VI": null
+            }
+        },
+        {
+            "Gio": {
+                "I": null,
+                "II": null,
+                "III": null,
+                "IV": null,
+                "V": null,
+                "VI": null
+            }
+        },
+        {
+            "Ven": {
+                "I": "78",
+                "II": "78",
+                "III": "Lab 51",
+                "IV": null,
+                "V": "Lab CAD",
+                "VI": "Lab CAD"
+            }
+        },
+        {
+            "Sab": {
+                "I": "50",
+                "II": "56",
+                "III": null,
+                "IV": "28",
+                "V": "Lab CAD"
+            }
+        }
+    ]
+}

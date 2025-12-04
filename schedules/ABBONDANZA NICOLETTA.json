@@ -1,0 +1,63 @@
+{
+    "orario": [
+        {
+            "Lun": {
+                "I": "48",
+                "II": "55",
+                "III": null,
+                "IV": "54",
+                "V": "28",
+                "VI": "Sportello"
+            }
+        },
+        {
+            "Mar": {
+                "I": null,
+                "II": null,
+                "III": null,
+                "IV": "48",
+                "V": null,
+                "VI": "Sportello"
+            }
+        },
+        {
+            "Mer": {
+                "I": null,
+                "II": null,
+                "III": null,
+                "IV": null,
+                "V": null,
+                "VI": null
+            }
+        },
+        {
+            "Gio": {
+                "I": null,
+                "II": null,
+                "III": null,
+                "IV": null,
+                "V": "54",
+                "VI": "Sportello"
+            }
+        },
+        {
+            "Ven": {
+                "I": "57",
+                "II": "48",
+                "III": "57",
+                "IV": "CAT-11",
+                "V": "54",
+                "VI": null
+            }
+        },
+        {
+            "Sab": {
+                "I": "31",
+                "II": null,
+                "III": "69",
+                "IV": "57",
+                "V": "CAT-11"
+            }
+        }
+    ]
+}

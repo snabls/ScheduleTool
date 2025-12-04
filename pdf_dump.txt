@@ -1,0 +1,1013 @@
+Total pages: 102
+--- Page 1 ---
+Header: ["Nome dell'Istituto: IS Pascal Comandini", 'Commenti: Commenti', 'Indice dei contenuti', 'ABBONDANZA NICOLETTA', 'AMENDOLA SERENA']
+Table sample (first 5 rows):
+["Nome dell'Istituto: IS Pascal Comandini"]
+['Commenti: Commenti']
+
+====================
+--- Page 2 ---
+Header: ['LUMINI PAOLO', 'MAZZOTTI IVAN', 'MELAGRANATI LORENZO', 'MINGOZZI CATIA', 'MOLARA FEDERICO']
+No tables found.
+
+====================
+--- Page 3 ---
+Header: ['IS Pascal Comandini', 'ABBONDANZA NICOLETTA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '5L 4N 3L', 'H1 Inglese Inglese Inglese']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '5L\nInglese\n48', '', '', '', '4N\nInglese\n57', '3L\nInglese\n31']
+['H2', '3L\nInglese\n55', '', '', '', '5L\nInglese\n48', '']
+['H3', '', '', '', '', '4N\nInglese\n57', '3L\nInglese\n69']
+['H4', '4L\nInglese\n54', '5L\nInglese\n48', '', '', '5H\nInglese\nCAT-11', '4N\nInglese\n57']
+
+====================
+--- Page 4 ---
+Header: ['IS Pascal Comandini', 'AMENDOLA SERENA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '3M', 'H1 IRC']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '', '', '3M\nIRC\nCAT-06', '']
+['H2', '', '', '', '', '', '']
+['H3', '', '', '', '', '2D\nIRC\nCAT-07', '']
+['H4', '', '', '', '', '', '']
+
+====================
+--- Page 5 ---
+Header: ['IS Pascal Comandini', 'ANDREETTI ELISABETTA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '3M', 'H1 Italiano']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '3M\nItaliano\nCAT-06', '', '', '3M\nItaliano\nCAT-06', '', '']
+['H2', None, '', '', '3M\nItaliano\nCAT-06', '', '']
+['H3', '', '', '', '', '', '']
+['H4', '', '', '', '', '', '']
+
+====================
+--- Page 6 ---
+Header: ['IS Pascal Comandini', 'ANTARIDI SARA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '1F 1H', 'H1 Scienze Scienze']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '', '1F\nScienze\n50', '', '1H\nScienze\n56']
+['H2', '', '', '', '2F\nScienze\nCAT-09', '', '']
+['H3', '', '', '', '', '', '2F\nScienze\nCAT-09']
+['H4', '', '', '', '1H\nScienze\n56', '', '']
+
+====================
+--- Page 7 ---
+Header: ['IS Pascal Comandini', 'BARAGHINI ANNALISA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'H1', '2E 5E 2F']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '2E\nScienze motorie\nPalestra1', '5E\nScienze motorie\nPalestra1', '', '', '', '2F\nScienze motorie\nPalestra1']
+['H2', None, None, '', None, '', None]
+['H3', '1E\nScienze motorie\nPalestra1', '', '4F\nScienze motorie\nPalestra1', None, '', '5L\nScienze motorie\nPalestra1']
+['H4', None, '', None, None, '', None]
+
+====================
+--- Page 8 ---
+Header: ['IS Pascal Comandini', 'BARONIO BARBARA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '4F 3I 1BIO 4L 4I', 'H1 IRC IRC IRC IRC IRC']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '4F\nIRC\nCAT-05', '3I\nIRC\n45', '1BIO\nIRC\n33', '4L\nIRC\n54', '', '4I\nIRC\n44']
+['H2', '2BIO\nIRC\n43', '3BIO\nIRC\nCAT-03', '1A\nIRC\n31', '', '', '1I\nIRC\n38Bis']
+['H3', '2F\nIRC\nCAT-09', '', '', '3A\nIRC\nC13', '', '2I\nIRC\n55']
+['H4', '1F\nIRC\n50', '', '2A\nIRC\n69', '5A\nIRC\nC16', '', '']
+
+====================
+--- Page 9 ---
+Header: ['IS Pascal Comandini', 'BENINI BARBARA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '2BIO 2BIO 5N 5N', 'H1 Italiano Italiano Italiano Italiano']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '4L\nItaliano\n54', '2BIO\nItaliano\n43', '2BIO\nItaliano\n43', '', '5N\nItaliano\nCAT-10', '5N\nItaliano\nCAT-10']
+['H2', None, '2BIO\nItaliano\n43', '4L\nItaliano\n54', None, '2BIO\nItaliano\n43', '4L\nItaliano\n54']
+['H3', '5N\nItaliano\nCAT-10', '4L\nItaliano\n54', '', None, '', '']
+['H4', '2BIO\nItaliano\n43', '4L\nItaliano\n54', '5N\nItaliano\nCAT-10', None, '', '']
+
+====================
+--- Page 10 ---
+Header: ['IS Pascal Comandini', 'BIONDI CARLO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'H1', 'BIONDI CARLO, ZANI LARA']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '', '', '', '']
+['H2', '', '5H\nGPOI\nCAT-11', '', 'BIONDI CARLO, ZANI LARA\n5L\nGPOI\nLab 51', '', '2G\nSTA\nCAT-02']
+['H3', '2I\nSTA\nLab 47', '5L\nGPOI\n48', '5L\nGPOI\n48', 'BIONDI CARLO, ZANI LARA\n5H\nGPOI\nLab 51', '', '']
+['H4', None, '2G\nSTA\nLab 47', '5E\nGPOI\n25', '2I\nSTA\n55', '', '5H\nGPOI\nCAT-11']
+
+====================
+--- Page 11 ---
+Header: ['IS Pascal Comandini', 'BISACCHI ANTONELLA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'H1', '4B']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '', '', '', '']
+['H2', '4B\nInglese\nC16', '', '', '', '', '']
+['H3', '5A\nInglese\nC12', '', '4A\nInglese\nC15', '', '3B\nInglese\nC12', '']
+['H4', '4A\nInglese\nC16', '', '5A\nInglese\nC14', '4A\nInglese\nC15', '4B\nInglese\nC14', '']
+
+====================
+--- Page 12 ---
+Header: ['IS Pascal Comandini', 'BOCCHINI MARCELLO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '5N', '5N 4L 4L']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '5N\nINF\nCAT-\n10', 'BOCCHINI\nMARCELLO,\nGORRASI\nROSAMARIA\n4L\nINF\nLab 51', '', '5N\nINF\n48', '4L\nINF\nLab 46', '4L\nINF\nLab 47']
+['H2', '', None, '', '3L\nTPSIT\n31', '', 'BOCCHINI\nMARCELLO,\nGORRASI\nROSAMARIA\n3L\nTPSIT\nLab 38']
+['H3', '4L\nINF\n54', 'BOCCHINI\nMARCELLO,\nOLANDESE\nPASQUALE\n5N\nINF\nLab 47', '', '', 'BOCCHINI\nMARCELLO,\nTONETTI\nTIBERIO\n1I\nTI\nLab LT', '5N\nINF\nLab 51']
+['H4', '3L\nTPSIT\n31', '', '', 'BOCCHINI\nMARCELLO,\nGORRASI\nROSAMARIA\n4L\nINF\nLab 38', None, '']
+
+====================
+--- Page 13 ---
+Header: ['IS Pascal Comandini', 'BRANDOLINI ELENA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '3L 3L', 'H1 Italiano Italiano Vicepresidenza']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '3L\nItaliano\n55', '', '', '3L\nItaliano\n31', '', 'Vicepresidenza']
+['H2', 'Vicepresidenza', 'Vicepresidenza', '', 'Vicepresidenza', 'Vicepresidenza', 'Potenziamento']
+['H3', 'Potenziamento', 'Potenziamento', '', 'Potenziamento', '3L\nItaliano\n38Bis', 'Potenziamento']
+['H4', 'Potenziamento', '1A\nItaliano\n31', '', '3L\nItaliano\n31', None, '1A\nItaliano\n31']
+
+====================
+--- Page 14 ---
+Header: ['IS Pascal Comandini', 'BRIGHI ALBERTO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'H1', 'FILOMENA']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '', '', 'FILOMENA\nFRANCESCO,\nBRIGHI ALBERTO\n1B\nTI\nLab LT', '']
+['H2', 'TAPPI\nFRANCESCO,\nBRIGHI\nALBERTO\n5L\nINF\nLab 46', '', 'VENETI DAVID,\nBRIGHI\nALBERTO\n5E\nSR\nLab 39', '', None, '']
+['H3', None, '', '', '', '', '']
+['H4', 'VENETI DAVID,\nBRIGHI\nALBERTO\n5E\nSR\nLab 39', '', 'TAPPI\nFRANCESCO,\nBRIGHI\nALBERTO\n5L\nINF\nLab 46', '', '', '']
+
+====================
+--- Page 15 ---
+Header: ['IS Pascal Comandini', 'CANDUCCI LEONARDO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '4A', 'H1 TPSE CANDUCCI CANDUCCI']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '4A\nTPSE\nC13', '', 'CANDUCCI\nLEONARDO,\nFOSCHI\nLORENZO\n5A\nTPSE\nL03', '3A\nEE\nL11', 'CANDUCCI\nLEONARDO,\nMONTALTI\nGIOVANNI\n3A\nEE\nL11', '']
+['H2', '5A\nTPSE\nC12', '', None, None, None, None]
+['H3', '', '', None, '', None, None]
+['H4', '', '3A\nEE\nC13', '3A\nEE\nL11', '', 'CANDUCCI\nLEONARDO,\nTAGARELLI\nGIACOMO\n4A\nTPSE\nL03', None]
+
+====================
+--- Page 16 ---
+Header: ['IS Pascal Comandini', 'CAPUTO EUGENIA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '3BIO 1BIO 4N', 'H1 Italiano Italiano Italiano']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '3BIO\nItaliano\nCAT-03', '1BIO\nItaliano\n33', '3BIO\nItaliano\nCAT-03', '', '', '4N\nItaliano\n57']
+['H2', '4N\nItaliano\n57', '4N\nItaliano\n57', None, '', '', '1BIO\nItaliano\n33']
+['H3', '4N\nItaliano\n57', '', '', '', '', None]
+['H4', None, '3BIO\nItaliano\nCAT-03', '', '4N\nItaliano\n57', '', '3BIO\nItaliano\nCAT-03']
+
+====================
+--- Page 17 ---
+Header: ['IS Pascal Comandini', 'CARANO STEFANIA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '1A 4L 4E', 'H1 Matematica Matematica Matematica']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '1A\nMatematica\n31', '4L\nMatematica\n54', '4E\nMatematica\n44', '', '']
+['H2', '', '4E\nMatematica\n38Bis', '', '1E\nMatematica\n28', '', None]
+['H3', '3L\nMatematica\n55', '1E\nMatematica\n28', '', '4L\nMatematica\n54', '1A\nMatematica\n31', None]
+['H4', '4E\nMatematica\n25', '3L\nMatematica\n44', '1A\nMatematica\n31', '', '1E\nMatematica\n28', None]
+
+====================
+--- Page 18 ---
+Header: ['IS Pascal Comandini', 'CARLUCCI ADRIANO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'H1', '3A 5A']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '3A\nScienze motorie\nSabbioneB', '', '', '', '5A\nScienze motorie\nPalestraComB']
+['H2', '', None, '', '', '', None]
+['H3', '', '', '', '', '', '4A\nScienze motorie\nPalestraComA']
+['H4', '', '', '', '', '', None]
+
+====================
+--- Page 19 ---
+Header: ['IS Pascal Comandini', 'CASADEI ELENA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'H1 Potenziamento', 'H2 Potenziamento Potenziamento']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '', '', '', 'Potenziamento']
+['H2', '', '', '', 'Potenziamento', '', 'Potenziamento']
+['H3', '', '', 'Potenziamento', 'Potenziamento', '', 'Potenziamento']
+['H4', '', '', 'Potenziamento', '', '', 'Potenziamento']
+
+====================
+--- Page 20 ---
+Header: ['IS Pascal Comandini', 'CASADEI LUCA', 'Lunedì MartedìMercoledì Giovedì VenerdìSabato', 'H1', 'H2']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '', '', '', '']
+['H2', '', '', '', '', '', '']
+['H3', '', '', '', '5N\nTPSIT\nCAT-10', '', '']
+['H4', 'CASADEI LUCA,\nTUCCILLO MARIA\nGRAZIA\n5N\nTPSIT\nLab 38', '', '', '', '', '']
+
+====================
+--- Page 21 ---
+Header: ['IS Pascal Comandini', 'CASILE ROBERTA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '1D', 'H1 CASILE ROBERTA, VALENTI ENRICO Fisica']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', 'CASILE ROBERTA, VALENTI ENRICO\n1D\nFisica\nLab Fisica', '', '', '', '', '1D\nFisica\nLab Fisica']
+['H2', None, '', '', '', '', '']
+['H3', '', '', '', '', '', '2D\nFisica\nCAT-07']
+['H4', '2D\nFisica\nCAT-07', '', '', '', '', '']
+
+====================
+--- Page 22 ---
+Header: ['IS Pascal Comandini', 'CASTAGNOLI ENRICO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'H1', '1G 1H 5B 5N 5E']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '', '', '', '']
+['H2', '1G\nIRC\nCAT-04', '1H\nIRC\n56', '5B\nIRC\nC12', '5N\nIRC\nCAT-10', '', '5E\nIRC\n53']
+['H3', '5H\nIRC\nCAT-11', '', '4B\nIRC\nC12', '1B\nIRC\nCAT-01', '', '1C\nIRC\n42']
+['H4', '2C\nIRC\nCAT-02', '', '3B\nIRC\nC15', '', '', '2E\nIRC\n44']
+
+====================
+--- Page 23 ---
+Header: ['IS Pascal Comandini', 'COMELLI PIERO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'COMELLI 5A', 'H1 PIERO, TONINI SIS']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '2C\nSTA\nLab 47', 'COMELLI\nPIERO, TONINI\nTIZIANO\n4I\nTLC\nLab 23', '', '5A\nSIS\nC13', '', '']
+['H2', None, None, '2C\nSTA\n78', '5A\nSIS\nC13', '', None]
+['H3', '4I\nTLC\n44', '4N\nTLC\n57', 'COMELLI PIERO,\nSERVADEI\nEMMANUELE\n4L\nTLC\nLab 23', '', '', None]
+['H4', '', '', None, '', 'COMELLI PIERO,\nSERVADEI\nEMMANUELE\n5A\nSIS\nL17', None]
+
+====================
+--- Page 24 ---
+Header: ['IS Pascal Comandini', 'CRASCI CARMELO', 'Lunedì Martedì Mercoledì GiovedìVenerdì Sabato', 'CRASCI', 'CARMELO,']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', 'CRASCI\nCARMELO,\nNOVELLI\nALESSANDRO\n1A\nTTRG\n78', '', '1B\nTTRG\nCAT-01', '2D\nTTRG\nLab\nCAD', '', '2C\nTTRG\nLab 46']
+['H2', '1C\nTTRG\n78', 'CRASCI\nCARMELO,\nNOVELLI\nALESSANDRO\n1B\nTTRG\nLab CAD', '', None, None, '2D\nTTRG\nLab 46']
+['H3', 'CRASCI\nCARMELO,\nNOVELLI\nALESSANDRO\n1C\nTTRG\n78', None, '2A\nTTRG\n69', '2C\nTTRG\nLab\nCAD', None, '2A\nTTRG\nLab CAD']
+['H4', '', '', '', None, None, None]
+
+====================
+--- Page 25 ---
+Header: ['IS Pascal Comandini', 'CRUCIANO MARCELLO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '1F 1A 1I', 'H1 Geografia Geografia Geografia']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '1F\nGeografia\n50', '1A\nGeografia\n31', '', '1I\nGeografia\n38Bis', '']
+['H2', '', '', '1E\nGeografia\n28', '', '1H\nGeografia\n56', '']
+['H3', '', '1D\nGeografia\nCAT-04', '1C\nGeografia\n42', '', '', '']
+['H4', '', '1G\nGeografia\nCAT-05', '', '', '1BIO\nGeografia\n33', '']
+
+====================
+--- Page 26 ---
+Header: ['IS Pascal Comandini', "DALL'ARA JACOPO", 'Lunedì MartedìMercoledì Giovedì VenerdìSabato', "DALL'ARA JACOPO,", 'H1']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', "DALL'ARA JACOPO,\nSERVADEI EMMANUELE\n5B\nEE\nL11", '', '', '', '', '']
+['H2', None, '', '', "DALL'ARA JACOPO,\nTAGARELLI GIACOMO\n3B\nTPSE\nL03", '2D\nSTA\nCAT-07', '']
+['H3', "DALL'ARA JACOPO,\nFOSCHI LORENZO\n4B\nEE\nL11", '', '3B\nTPSE\nC16', None, '', '5B\nEE\nL11']
+['H4', None, '', '', None, '5B\nEE\nC12', '4B\nEE\nL11']
+
+====================
+--- Page 27 ---
+Header: ['IS Pascal Comandini', 'DANESI ANTONIO', 'Lunedì Martedì MercoledìGiovedì Venerdì Sabato', 'H1', '1H']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '', '', '', '']
+['H2', '', '', '1H\nFisica\n56', '', '', 'DANESI ANTONIO,\nVALENTI ENRICO\n1G\nFisica\nLab Fisica']
+['H3', '1G\nFisica\nCAT-\n04', 'DANESI ANTONIO,\nVALENTI ENRICO\n1F\nFisica\nLab Fisica', '2BIO\nFisica\n43', '', 'DANESI ANTONIO,\nVALENTI ENRICO\n1H\nFisica\nLab Fisica', None]
+['H4', '2G\nFisica\n55', None, '', '', None, '2G\nFisica\n56']
+
+====================
+--- Page 28 ---
+Header: ['IS Pascal Comandini', 'DI SAVINO SILVIO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '1C 1B', 'VALENTI ENRICO,']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '1C\nFisica\n42', '', 'VALENTI ENRICO,\nDI SAVINO SILVIO\n1I\nFisica\nLab Fisica', '', '', '1B\nFisica\nCAT-11']
+['H2', '1I\nFisica\n38Bis', '', None, '', None, '2C\nFisica\n31']
+['H3', '', '', 'DI SAVINO\nSILVIO, VALENTI\nENRICO\n1B\nFisica\nLab Fisica', '', None, 'Potenziamento']
+['H4', '', '', None, '', None, 'DI SAVINO SILVIO,\nVALENTI ENRICO\n1E\nFisica\nLab Fisica']
+
+====================
+--- Page 29 ---
+Header: ['IS Pascal Comandini', 'FAGIOLI ENRICO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '2G 2G 2G', 'H1 Italiano Italiano Italiano']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '2G\nItaliano\nCAT-02', '2G\nItaliano\nCAT-02', '2G\nItaliano\nCAT-02', '', '1F\nItaliano\n50', '2G\nItaliano\nCAT-02']
+['H2', '1F\nItaliano\n50', '1F\nItaliano\n50', None, '', None, '1F\nItaliano\n50']
+['H3', '', '', '', '', '2G\nItaliano\nCAT-02', '']
+['H4', '', '2F\nItaliano\nCAT-09', '1F\nItaliano\n50', '', '', '2F\nItaliano\nCAT-09']
+
+====================
+--- Page 30 ---
+Header: ['IS Pascal Comandini', 'FERRARO GRAZIELLA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '1F 2D 1A 2A', 'H1 Diritto Diritto Diritto Diritto']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '1F\nDiritto\n50', '2D\nDiritto\nCAT-07', '', '', '1A\nDiritto\n31', '2A\nDiritto\n69']
+['H2', 'Potenziamento', '2F\nDiritto\nCAT-09', None, 'Potenziamento', '2F\nDiritto\nCAT-09', '1D\nDiritto\nCAT-04']
+['H3', '', 'Potenziamento', None, '2A\nDiritto\n69', '', '1A\nDiritto\n31']
+['H4', '', 'Potenziamento', None, '1D\nDiritto\nCAT-04', 'Potenziamento', '']
+
+====================
+--- Page 31 ---
+Header: ['IS Pascal Comandini', 'FILOMENA FRANCESCO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '2A FILOMENA', 'FILOMENA']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '2A\nSTA\n69', '', 'FILOMENA\nFRANCESCO,\nFOSCHINI\nANDREA\n1D\nTI\nLab LT', 'FILOMENA\nFRANCESCO,\nBRIGHI ALBERTO\n1B\nTI\nLab LT', '']
+['H2', '', '1D\nTI\nCAT-04', '', None, None, '']
+['H3', '', 'FILOMENA\nFRANCESCO,\nFOSCHINI\nANDREA\n1C\nTI\nLab LT', '', '', '', '']
+['H4', '', None, '', '1B\nTI\nCAT-01', '1C\nTI\n42', '']
+
+====================
+--- Page 32 ---
+Header: ['IS Pascal Comandini', 'FORTI ELISA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '5L 5L 5L', 'H1 Italiano Italiano Italiano']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '5L\nItaliano\n48', '5L\nItaliano\n48', '2I\nItaliano\n55', '5L\nItaliano\n48', '5L\nItaliano\n48']
+['H2', None, '2E\nItaliano\n54', None, None, '2I\nItaliano\n55', '5L\nItaliano\n48']
+['H3', None, '', '2I\nItaliano\n55', '2I\nItaliano\n55', '', '2E\nItaliano\n54']
+['H4', None, '', '2E\nItaliano\n54', '2E\nItaliano\n78', '2E\nItaliano\n78', '']
+
+====================
+--- Page 33 ---
+Header: ['IS Pascal Comandini', 'FOSCHI LORENZO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'H1', 'CANDUCCI']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', 'CANDUCCI\nLEONARDO,\nFOSCHI\nLORENZO\n5A\nTPSE\nL03', '', '', '']
+['H2', '', 'VALDINOSI\nMICHELE,\nFOSCHI\nLORENZO\n5B\nTPSE\nL03', None, '', 'VALDINOSI\nMICHELE,\nFOSCHI\nLORENZO\n5B\nTPSE\nL03', None]
+['H3', "DALL'ARA\nJACOPO,\nFOSCHI\nLORENZO\n4B\nEE\nL11", None, None, '', None, None]
+['H4', None, None, 'VALDINOSI\nMICHELE,\nFOSCHI\nLORENZO\n4B\nTPSE\nL03', 'Potenziamento', '', None]
+
+====================
+--- Page 34 ---
+Header: ['IS Pascal Comandini', 'FOSCHINI ANDREA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'VENTURI LUCCHI FILOMENA VENTURI', 'H1 FRANCESCO, GIANNI, FRANCESCO, FRANCESCO,']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', 'VENTURI\nFRANCESCO,\nFOSCHINI\nANDREA\n3E\nSR\nLab LT', 'LUCCHI\nGIANNI,\nFOSCHINI\nANDREA\n3L\nSR\nLab LT', '', 'FILOMENA\nFRANCESCO,\nFOSCHINI\nANDREA\n1D\nTI\nLab LT', '', 'VENTURI\nFRANCESCO,\nFOSCHINI\nANDREA\n3M\nSR\nLab LT']
+['H2', None, None, '', None, '', None]
+['H3', '', 'FILOMENA\nFRANCESCO,\nFOSCHINI\nANDREA\n1C\nTI\nLab LT', 'VENETI\nDAVID,\nFOSCHINI\nANDREA\n5H\nSR\nLab 39', '', '', '']
+['H4', '', None, None, '', '', 'SINTUZZI\nMAURIZIO,\nFOSCHINI\nANDREA\n4E\nSR\nLab 39']
+
+====================
+--- Page 35 ---
+Header: ['IS Pascal Comandini', 'FUSAROLI CHIARA', 'LunedìMartedì Mercoledì Giovedì Venerdì Sabato', '4N FUSAROLI CHIARA,', 'H1 INF OLANDESE']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '4N\nINF\nLab 46', '', 'FUSAROLI CHIARA,\nOLANDESE\nPASQUALE\n4N\nINF\nLab 47', '2E\nSTA\nLab 47', '', '']
+['H2', '', '', None, None, '', None]
+['H3', '5E\nINF\n25', '', 'FUSAROLI CHIARA,\nTONETTI TIBERIO\n1E\nTI\nLab LT', 'FUSAROLI CHIARA,\nOLANDESE\nPASQUALE\n4N\nINF\nLab 47', '1E\nTI\n28', None]
+['H4', '2E\nSTA\nLab 46', '4N\nINF\nLab 51', None, 'FUSAROLI CHIARA,\nTONETTI TIBERIO\n5E\nINF\nLab 51', '', None]
+
+====================
+--- Page 36 ---
+Header: ['IS Pascal Comandini', 'GAGLIARDI ELEONORA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '5B 5B 2D 5B', 'H1 Inglese Inglese Inglese Inglese']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '5B\nInglese\nC12', '5B\nInglese\nC12', '', '2D\nInglese\nCAT-07', '5B\nInglese\nC12']
+['H2', '', '', '', '', '1A\nInglese\n31', '']
+['H3', '', '1A\nInglese\n31', '1A\nInglese\n31', '', '', '']
+['H4', '', '', '2D\nInglese\nCAT-07', '', '1D\nInglese\nCAT-04', '2D\nInglese\nCAT-07']
+
+====================
+--- Page 37 ---
+Header: ['IS Pascal Comandini', 'GALLINUCCI MORENA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '1C 5E 3E 2E 2E', 'H1 Matematica Matematica Matematica Matematica Matematica']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '1C\nMatematica\n42', '5E\nMatematica\n25', '3E\nMatematica\n53', '2E\nMatematica\n44', '2E\nMatematica\n78']
+['H2', '', '3E\nMatematica\n53', '1C\nMatematica\n42', '2C\nMatematica\n69', '', '']
+['H3', '', '2E\nMatematica\n78', '2E\nMatematica\n54', '', '1C\nMatematica\n42', '']
+['H4', '', '2C\nMatematica\n55', '3E\nMatematica\n53', '', '5E\nMatematica\n25', '1C\nMatematica\n42']
+
+====================
+--- Page 38 ---
+Header: ['IS Pascal Comandini', 'GAMBERONI MATTEO', 'LunedìMartedìMercoledìGiovedì Venerdì Sabato', '3BIO 2D 2BIO 2BIO', 'H1 Biologia Scienze Scienze Scienze']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '3BIO\nBiologia\nCAT-03', '2D\nScienze\nCAT-07', '2BIO\nScienze\n43', '2BIO\nScienze\n43', '3BIO\nBiologia\nCAT-03']
+['H2', None, '1BIO\nScienze\n33', '', '1C\nScienze\n42', '3BIO\nBiologia\nCAT-03', None]
+['H3', None, '2C\nScienze\n55', '', '', 'GAMBERONI MATTEO, VOLTA\nALESSANDRA\n3BIO\nBiologia\nLab Chimica', '']
+['H4', None, '2D\nScienze\nCAT-07', '1C\nScienze\n42', '', None, '']
+
+====================
+--- Page 39 ---
+Header: ['IS Pascal Comandini', 'GARDELLI MARIA GRAZIA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '4E 5G 3E', 'H1 Italiano Italiano Italiano']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '5G\nItaliano\n58', '4E\nItaliano\n50', '5G\nItaliano\n58', '3E\nItaliano\n53', '4E\nItaliano\nCAT-09']
+['H2', '', None, '3E\nItaliano\n53', '3E\nItaliano\n53', '4E\nItaliano\nCAT-01', None]
+['H3', '', '3E\nItaliano\n53', '5G\nItaliano\n58', '4E\nItaliano\n50', '5G\nItaliano\n58', '5G\nItaliano\n58']
+['H4', '', None, '', '', '', '']
+
+====================
+--- Page 40 ---
+Header: ['IS Pascal Comandini', 'GASPERONI PAOLA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '1E 4F 5E 4F', 'H1 Italiano Italiano Italiano Italiano']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '1E\nItaliano\n28', '4F\nItaliano\nCAT-05', '', '5E\nItaliano\n25', '4F\nItaliano\nCAT-05', '4F\nItaliano\nCAT-05']
+['H2', '4F\nItaliano\nCAT-05', '1E\nItaliano\n28', None, '', '5E\nItaliano\n25', None]
+['H3', '', '5E\nItaliano\n25', None, '4F\nItaliano\nCAT-05', '5E\nItaliano\n25', '1E\nItaliano\n28']
+['H4', '', None, None, '1E\nItaliano\n28', '', '5E\nItaliano\n25']
+
+====================
+--- Page 41 ---
+Header: ['IS Pascal Comandini', 'GIOVANNINI VALENTINA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '3I 3I 3I', 'H1 Italiano Italiano Italiano']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '3I\nItaliano\n45', '', '3I\nItaliano\n45', '', '', '3I\nItaliano\n45']
+['H2', '4I\nItaliano\n44', '', '', '', '', '4I\nItaliano\n44']
+['H3', '', '3I\nItaliano\n45', '1I\nItaliano\n38Bis', '', '3I\nItaliano\n45', None]
+['H4', '1I\nItaliano\n38Bis', None, '1I\nItaliano\n38Bis', '', '4I\nItaliano\n44', '1I\nItaliano\n38Bis']
+
+====================
+--- Page 42 ---
+Header: ['IS Pascal Comandini', 'GORRASI ROSAMARIA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'H1', 'BOCCHINI LUCCHI LUCCHI']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', 'BOCCHINI\nMARCELLO,\nGORRASI\nROSAMARIA\n4L\nINF\nLab 51', '', 'LUCCHI\nMATTEO,\nGORRASI\nROSAMARIA\n5H\nTPSIT\nLab 38', 'LUCCHI\nMATTEO,\nGORRASI\nROSAMARIA\n4I\nTPSIT\nLab 38', '']
+['H2', '', None, '', None, None, 'BOCCHINI\nMARCELLO,\nGORRASI\nROSAMARIA\n3L\nTPSIT\nLab 38']
+['H3', 'MELAGRANATI\nLORENZO,\nGORRASI\nROSAMARIA\n5G\nTPSIT\nLab 38', 'MELAGRANATI\nLORENZO,\nGORRASI\nROSAMARIA\n5G\nTPSIT\nLab 38', '', 'GRECO\nTONI,\nGORRASI\nROSAMARIA\n3L\nINF\nLab 38', 'LUCCHI\nMATTEO,\nGORRASI\nROSAMARIA\n5H\nTPSIT\nLab 38', '']
+['H4', '', None, '', 'BOCCHINI\nMARCELLO,\nGORRASI\nROSAMARIA\n4L\nINF\nLab 38', 'MOLARA\nFEDERICO,\nGORRASI\nROSAMARIA\n3M\nTPSIT\nLab 38', 'MOLARA\nFEDERICO,\nGORRASI\nROSAMARIA\n4L\nTPSIT\nLab 38']
+
+====================
+--- Page 43 ---
+Header: ['IS Pascal Comandini', 'GRADARA SARA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'H1 Vicepresidenza Vicepresidenza Vicepresidenza Vicepresidenza Vicepresidenza', '5H']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', 'Vicepresidenza', 'Vicepresidenza', 'Vicepresidenza', 'Vicepresidenza', 'Vicepresidenza', '']
+['H2', 'Potenziamento', 'Potenziamento', 'Potenziamento', 'Potenziamento', '5H\nMatematica\n28', '']
+['H3', '1D\nMatematica\n28', 'Potenziamento', '1D\nMatematica\n28', 'Potenziamento', 'Potenziamento', '']
+['H4', '5H\nMatematica\n28', '1D\nMatematica\n28', 'Potenziamento', 'Potenziamento', 'Potenziamento', '']
+
+====================
+--- Page 44 ---
+Header: ['IS Pascal Comandini', 'GRECO TONI', 'Lunedì Martedì Mercoledì Giovedì VenerdìSabato', 'H1', 'H2']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '', '', '', '']
+['H2', '', '', '', '', '', '']
+['H3', '4F\nINF\nCAT-05', 'GRECO\nTONI, ZANI\nLARA\n4F\nINF\nLab 46', '3L\nINF\nCAT-06', 'GRECO TONI,\nGORRASI\nROSAMARIA\n3L\nINF\nLab 38', '', '']
+['H4', '', None, '3L\nINF\nCAT-06', '', '', '']
+
+====================
+--- Page 45 ---
+Header: ['IS Pascal Comandini', 'GUADAGNO GRAZIA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '1E 1H 5E 5E', 'H1 Inglese Inglese Inglese Inglese']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '1E\nInglese\n28', '1H\nInglese\n56', '5E\nInglese\n25', '5E\nInglese\n25']
+['H2', '1E\nInglese\n28', '', '', '', '2E\nInglese\n44', '2E\nInglese\n78']
+['H3', '', '', '5E\nInglese\n25', '1E\nInglese\n28', 'Potenziamento', '1H\nInglese\n56']
+['H4', 'Potenziamento', '', '1H\nInglese\n56', '4E\nInglese\n50', 'Potenziamento', '']
+
+====================
+--- Page 46 ---
+Header: ['IS Pascal Comandini', 'GUALTIERI THOMAS', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '1H 4E', 'H1 Matematica Matematica']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '1H\nMatematica\n56', '', '', '4E\nMatematica\nCAT-01', '']
+['H2', '1H\nMatematica\n56', '5L\nMatematica\n48', '', '', '4L\nMatematica\n54', '']
+['H3', '3M\nMatematica\nCAT-06', '', '', '', '3M\nMatematica\nCAT-06', '']
+['H4', '5L\nMatematica\n48', '3M\nMatematica\nCAT-06', '', '', '5L\nMatematica\n48', '']
+
+====================
+--- Page 47 ---
+Header: ['IS Pascal Comandini', 'LENZI BARBARA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '1BIO 1C 2A 1BIO', 'H1 Inglese Inglese Inglese Inglese']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '1BIO\nInglese\n33', '', '1C\nInglese\n42', '', '2A\nInglese\n69', '1BIO\nInglese\n33']
+['H2', '', '', '2A\nInglese\n69', '', '2C\nInglese\nCAT-02', '2A\nInglese\n69']
+['H3', '', '', '2C\nInglese\n78', '', '1BIO\nInglese\n33', '2C\nInglese\n78']
+['H4', '', '', '', '', '', '']
+
+====================
+--- Page 48 ---
+Header: ['IS Pascal Comandini', 'LUCCHI ARIANNA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '2BIO', 'H1 Chimica']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '2BIO\nChimica\nLab Chimica', '', '', '', '', '']
+['H2', 'LUCCHI\nARIANNA, VOLTA\nALESSANDRA\n3BIO\nOrganica\nLab Chimica', '', '2E\nChimica\n44', '3BIO\nAnalitica\nCAT-03', '', '']
+['H3', 'LUCCHI\nARIANNA, VOLTA\nALESSANDRA\n1BIO\nChimica\nLab Chimica', '1BIO\nChimica\nLab Chimica', 'LUCCHI\nARIANNA, VOLTA\nALESSANDRA\n3BIO\nAnalitica\nLab Chimica', '2BIO\nChimica\n43', '', '3BIO\nOrganica\nCAT-03']
+['H4', None, '2E\nChimica\n78', None, '2BIO\nSTA\n43', '', '2BIO\nSTA\n43']
+
+====================
+--- Page 49 ---
+Header: ['IS Pascal Comandini', 'LUCCHI GIANNI', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'LUCCHI', 'GIANNI,']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', 'LUCCHI\nGIANNI,\nFOSCHINI\nANDREA\n3L\nSR\nLab LT', 'LUCCHI\nGIANNI,\nTONETTI\nTIBERIO\n4F\nTPSIT\nLab 38', 'LUCCHI\nGIANNI,\nOLANDESE\nPASQUALE\n4N\nSR\nLab 39', 'LUCCHI\nGIANNI,\nTONETTI\nTIBERIO\n5G\nSR\nLab 39', 'LUCCHI\nGIANNI,\nTONETTI\nTIBERIO\n5G\nSR\nLab 39']
+['H2', '', None, None, None, '4F\nTPSIT\nCAT-05', None]
+['H3', '', '', '', '5G\nSR\n58', '', '4N\nTPSIT\n57']
+['H4', '', '', '', '', '4N\nSR\nLab 51', '3L\nSR\n69']
+
+====================
+--- Page 50 ---
+Header: ['IS Pascal Comandini', 'LUCCHI MATTEO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'LUCCHI', 'MATTEO,']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', 'LUCCHI\nMATTEO,\nTONETTI\nTIBERIO\n5E\nTPSIT\nLab 38', 'LUCCHI\nMATTEO,\nPULGA\nLUCA\n3E\nTPSIT\nLab 38', '', 'LUCCHI\nMATTEO,\nGORRASI\nROSAMARIA\n5H\nTPSIT\nLab 38', 'LUCCHI\nMATTEO,\nGORRASI\nROSAMARIA\n4I\nTPSIT\nLab 38', '5H\nTPSIT\nLab 38']
+['H2', None, '', None, None, None, '']
+['H3', '', 'LUCCHI\nMATTEO,\nPULGA\nLUCA\n4I\nSR\nLab 39', None, '5E\nTPSIT\nLab 46', 'LUCCHI\nMATTEO,\nGORRASI\nROSAMARIA\n5H\nTPSIT\nLab 38', 'LUCCHI\nMATTEO,\nTONETTI\nTIBERIO\n5E\nTPSIT\nLab 38']
+['H4', '', None, None, '3E\nTPSIT\n53', '3E\nTPSIT\nLab 47', '4I\nSR\nLab 47']
+
+====================
+--- Page 51 ---
+Header: ['IS Pascal Comandini', 'LUMINI CINZIA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '1E 2E 1G 2I', 'H1 Diritto Diritto Diritto Diritto']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '1E\nDiritto\n28', '2E\nDiritto\n78', '', '1G\nDiritto\nCAT-04', '2I\nDiritto\n55']
+['H2', None, 'Potenziamento', '', '', 'Potenziamento', 'Potenziamento']
+['H3', None, 'Potenziamento', '', '', 'Potenziamento', '1I\nDiritto\n38Bis']
+['H4', None, '1I\nDiritto\n38Bis', '', '1G\nDiritto\n38Bis', 'Potenziamento', '']
+
+====================
+--- Page 52 ---
+Header: ['IS Pascal Comandini', 'LUMINI PAOLO', 'Lunedì Martedì MercoledìGiovedìVenerdì Sabato', '4B 4B', 'LUMINI PAOLO,']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '4B\nSIS\nC16', 'LUMINI PAOLO,\nMONTALTI GIOVANNI\n3B\nSIS\nL17', '', '4B\nSIS\nC15', '', 'LUMINI PAOLO,\nMONTALTI GIOVANNI\n4B\nSIS\nL17']
+['H2', '3B\nSIS\nC14', None, '', '4B\nSIS\nC14', '', None]
+['H3', '', '3B\nSIS\nL17', '', '', '', None]
+['H4', '', '', '', '3A\nSIS\nC13', '', 'LUMINI PAOLO,\nMONTALTI GIOVANNI\n3A\nSIS\nL17']
+
+====================
+--- Page 53 ---
+Header: ['IS Pascal Comandini', 'MAZZOTTI IVAN', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '3B', 'H1 Matematica']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '3B\nMatematica\nC14', '', '', '', '', '']
+['H2', '', '', '', '', '', '']
+['H3', '3BIO\nMatematica\nCAT-03', '', '', '', '', '']
+['H4', '', '', '', '', '', '']
+
+====================
+--- Page 54 ---
+Header: ['IS Pascal Comandini', 'MELAGRANATI LORENZO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'H1', '5N']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '', '', '', '']
+['H2', '', '', '5N\nSR\nLab 23', '', 'MELAGRANATI\nLORENZO,\nOLANDESE\nPASQUALE\n5N\nSR\nLab 39', '']
+['H3', 'MELAGRANATI\nLORENZO,\nGORRASI\nROSAMARIA\n5G\nTPSIT\nLab 38', 'MELAGRANATI\nLORENZO,\nGORRASI\nROSAMARIA\n5G\nTPSIT\nLab 38', 'MELAGRANATI\nLORENZO,\nOLANDESE\nPASQUALE\n5N\nGPOI\nLab 51', '', None, '4L\nSR\nLab LT']
+['H4', '', None, '5G\nGPOI\n58', '', 'MELAGRANATI\nLORENZO,\nOLANDESE\nPASQUALE\n5N\nSR\nLab 39', '5N\nGPOI\nLab 51']
+
+====================
+--- Page 55 ---
+Header: ['IS Pascal Comandini', 'MINGOZZI CATIA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '1B 1B 3B 5B 4B', 'H1 Matematica Matematica Matematica Matematica Matematica']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '1B\nMatematica\nCAT-01', '1B\nMatematica\nCAT-01', '3B\nMatematica\nC16', '5B\nMatematica\nC12', '4B\nMatematica\nC14', '']
+['H2', '2A\nMatematica\n69', '2A\nMatematica\n69', '4B\nMatematica\nC15', '5B\nMatematica\nC12', '3B\nMatematica\nC15', '']
+['H3', '', '', '', '4B\nMatematica\nC15', '', '']
+['H4', '', '4B\nMatematica\nC14', '', '', '2A\nMatematica\n69', '']
+
+====================
+--- Page 56 ---
+Header: ['IS Pascal Comandini', 'MOLARA FEDERICO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'H1', 'MOLARA']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '', '', '', '']
+['H2', '', '', '3M\nTPSIT\nLab LT', '4L\nTPSIT\nLab 46', '3M\nINF\nCAT-06', 'MOLARA\nFEDERICO,\nTUCCILLO\nMARIA GRAZIA\n5H\nINF\nLab 47']
+['H3', '', '3M\nTPSIT\nLab 51', 'MOLARA\nFEDERICO,\nZANI LARA\n3M\nINF\nLab 47', '', '', '3M\nINF\nLab 47']
+['H4', '', '5H\nINF\nCAT-11', None, '5H\nINF\nLab 46', 'MOLARA\nFEDERICO,\nGORRASI\nROSAMARIA\n3M\nTPSIT\nLab 38', 'MOLARA\nFEDERICO,\nGORRASI\nROSAMARIA\n4L\nTPSIT\nLab 38']
+
+====================
+--- Page 57 ---
+Header: ['IS Pascal Comandini', 'MONFREDA VITO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'NOVELLI', 'MONFREDA']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', 'MONFREDA\nVITO, NOVELLI\nALESSANDRO\n1F\nTTRG\nLab CAD', '', '1E\nTTRG\n78', 'NOVELLI\nALESSANDRO,\nMONFREDA\nVITO\n1F\nTTRG\n50']
+['H2', '', '', '1F\nTTRG\nLab CAD', None, 'NOVELLI\nALESSANDRO,\nMONFREDA\nVITO\n1E\nTTRG\n78', 'NOVELLI\nALESSANDRO,\nMONFREDA\nVITO\n1H\nTTRG\n56']
+['H3', '', '', '2F\nTTRG\nLab CAD', None, '2F\nTTRG\nLab 51', '']
+['H4', 'MONFREDA\nVITO, NOVELLI\nALESSANDRO\n1D\nTTRG\nLab CAD', '', None, None, '', '1D\nTTRG\n28']
+
+====================
+--- Page 58 ---
+Header: ['IS Pascal Comandini', 'MONTALTI GIOVANNI', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'LUMINI', 'H1 PAOLO, CANDUCCI LUMINI']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', 'LUMINI\nPAOLO,\nMONTALTI\nGIOVANNI\n3B\nSIS\nL17', '', '', 'CANDUCCI\nLEONARDO,\nMONTALTI\nGIOVANNI\n3A\nEE\nL11', 'LUMINI\nPAOLO,\nMONTALTI\nGIOVANNI\n4B\nSIS\nL17']
+['H2', '', None, None, 'Potenziamento', None, None]
+['H3', '', '', None, 'Potenziamento', None, None]
+['H4', 'Potenziamento', 'Potenziamento', None, '', 'VALDINOSI\nMICHELE,\nMONTALTI\nGIOVANNI\n3B\nEE\nL11', 'LUMINI\nPAOLO,\nMONTALTI\nGIOVANNI\n3A\nSIS\nL17']
+
+====================
+--- Page 59 ---
+Header: ['IS Pascal Comandini', 'MUSCILLO ANTONIETTA', 'Lunedì Martedì MercoledìGiovedìVenerdì Sabato', '1H 1E', 'H1 Chimica Chimica']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '1H\nChimica\n56', '', '', '1E\nChimica\n28']
+['H2', '', '', '1B\nChimica\nCAT-01', '', '', 'MUSCILLO\nANTONIETTA, STELLA\nQUINTO PIO\n1B\nChimica\nLab Chimica']
+['H3', '', '', '', '', '', None]
+['H4', '', 'MUSCILLO\nANTONIETTA, VOLTA\nALESSANDRA\n1E\nChimica\nLab Chimica', '', '', '', 'MUSCILLO\nANTONIETTA, STELLA\nQUINTO PIO\n1H\nChimica\nLab Chimica']
+
+====================
+--- Page 60 ---
+Header: ['IS Pascal Comandini', 'NICOLAI MASSIMO', 'Lunedì MartedìMercoledì Giovedì VenerdìSabato', '4A 5B', 'H1 SIS SIS']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '4A\nSIS\nL17', 'NICOLAI MASSIMO,\nSERVADEI EMMANUELE\n4A\nSIS\nL17', '5B\nSIS\nC12', '']
+['H2', '', '', '4A\nSIS\nL17', None, '4A\nSIS\nC16', '']
+['H3', 'NICOLAI MASSIMO,\nSERVADEI EMMANUELE\n5B\nSIS\nL17', '', '5B\nSIS\nL17', None, '', '']
+['H4', None, '', '', '', '', '']
+
+====================
+--- Page 61 ---
+Header: ['IS Pascal Comandini', 'NOVELLI ALESSANDRO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'CRASCI MONFREDA NOVELLI', 'CARMELO, VITO, ALESSANDRO,']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', 'CRASCI\nCARMELO,\nNOVELLI\nALESSANDRO\n1A\nTTRG\n78', '', 'MONFREDA\nVITO,\nNOVELLI\nALESSANDRO\n1F\nTTRG\nLab CAD', '', '', 'NOVELLI\nALESSANDRO,\nMONFREDA\nVITO\n1F\nTTRG\n50']
+['H2', '', 'CRASCI\nCARMELO,\nNOVELLI\nALESSANDRO\n1B\nTTRG\nLab CAD', 'SOLOMITA\nPASQUALINO,\nNOVELLI\nALESSANDRO\n1BIO\nTTRG\n33', '', 'NOVELLI\nALESSANDRO,\nMONFREDA\nVITO\n1E\nTTRG\n78', 'NOVELLI\nALESSANDRO,\nMONFREDA\nVITO\n1H\nTTRG\n56']
+['H3', 'CRASCI\nCARMELO,\nNOVELLI\nALESSANDRO\n1C\nTTRG\n78', None, '', '', 'SOLOMITA\nPASQUALINO,\nNOVELLI\nALESSANDRO\n1G\nTTRG\nLab CAD', '']
+['H4', 'MONFREDA\nVITO,\nNOVELLI\nALESSANDRO\n1D\nTTRG\nLab CAD', '', '', '', None, 'NOVELLI\nALESSANDRO,\nSOLOMITA\nPASQUALINO\n1BIO\nTTRG\n78']
+
+====================
+--- Page 62 ---
+Header: ['IS Pascal Comandini', 'NUCCI SIMONE', 'Lunedì MartedìMercoledì Giovedì Venerdì Sabato', 'NUCCI 3M 4F NUCCI', 'H1 SIMONE, TLC TLC SIMONE,']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', 'NUCCI\nSIMONE,\nTONINI\nTIZIANO\n4E\nTLC\nLab 23', '3M\nTLC\nLab 39', '', '4F\nTLC\nCAT-05', 'NUCCI\nSIMONE,\nTONINI\nTIZIANO\n3L\nTLC\nLab 23', '']
+['H2', None, '1A\nTI\nLab 46', '', '', None, 'NUCCI\nSIMONE,\nTONINI\nTIZIANO\n3E\nTLC\nLab 23']
+['H3', '', '3L\nTLC\n44', '', 'NUCCI SIMONE,\nTUCCILLO MARIA\nGRAZIA\n1A\nTI\nLab LT', 'NUCCI\nSIMONE,\nTONINI\nTIZIANO\n4F\nTLC\nLab 23', None]
+['H4', '', '4E\nTLC\nLab 23', '', None, None, 'NUCCI\nSIMONE,\nTONINI\nTIZIANO\n3M\nTLC\nLab 23']
+
+====================
+--- Page 63 ---
+Header: ['IS Pascal Comandini', 'OLANDESE PASQUALE', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'FUSAROLI LUCCHI', 'H1 CHIARA, GIANNI,']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', 'FUSAROLI\nCHIARA,\nOLANDESE\nPASQUALE\n4N\nINF\nLab 47', 'LUCCHI\nGIANNI,\nOLANDESE\nPASQUALE\n4N\nSR\nLab 39', '', '']
+['H2', '', '', None, None, 'MELAGRANATI\nLORENZO,\nOLANDESE\nPASQUALE\n5N\nSR\nLab 39', '']
+['H3', 'VACCARI\nANDREA,\nOLANDESE\nPASQUALE\n1H\nTI\nLab LT', 'BOCCHINI\nMARCELLO,\nOLANDESE\nPASQUALE\n5N\nINF\nLab 47', 'MELAGRANATI\nLORENZO,\nOLANDESE\nPASQUALE\n5N\nGPOI\nLab 51', 'FUSAROLI\nCHIARA,\nOLANDESE\nPASQUALE\n4N\nINF\nLab 47', None, '']
+['H4', None, '', '', '', 'MELAGRANATI\nLORENZO,\nOLANDESE\nPASQUALE\n5N\nSR\nLab 39', '']
+
+====================
+--- Page 64 ---
+Header: ['IS Pascal Comandini', 'ORDINELLI ALESSANDRA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '2A 2E 1E 2I 1I', 'H1 Scienze Scienze Scienze Scienze Scienze']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '2A\nScienze\n69', '2E\nScienze\n54', '', '1E\nScienze\n28', '2I\nScienze\n55', '1I\nScienze\n38Bis']
+['H2', '1B\nScienze\nCAT-01', '', None, '2G\nScienze\nCAT-02', '1I\nScienze\n38Bis', '1E\nScienze\n28']
+['H3', '1A\nScienze\n31', '1G\nScienze\nCAT-05', None, '2E\nScienze\nCAT-06', '2A\nScienze\n69', '2G\nScienze\nCAT-02']
+['H4', '', '1B\nScienze\nCAT-01', None, '', '1A\nScienze\n31', '2I\nScienze\n55']
+
+====================
+--- Page 65 ---
+Header: ['IS Pascal Comandini', 'ORFEI MARCO', 'Lunedì MartedìMercoledì Giovedì VenerdìSabato', '2D 2C 2C', 'ORFEI MARCO, STELLA']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '2D\nChimica\nCAT-07', '2C\nChimica\n44', '', 'ORFEI MARCO, STELLA\nQUINTO PIO\n1A\nChimica\nLab Chimica', '2C\nChimica\nCAT-02', '']
+['H2', '1A\nChimica\n31', '2D\nChimica\nCAT-07', '', None, '2A\nChimica\n69', '']
+['H3', '2A\nChimica\n69', '2A\nChimica\n69', '2D\nChimica\nCAT-07', '', '', '']
+['H4', '', '', '1D\nChimica\nCAT-04', '', '', '']
+
+====================
+--- Page 66 ---
+Header: ['IS Pascal Comandini', 'PARINI EMANUELE', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '4N 2F 3E', 'H1 Matematica Matematica Matematica']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '4N\nMatematica\n57', '', '', '2F\nMatematica\nCAT-09', '3E\nMatematica\n53']
+['H2', '2F\nMatematica\nCAT-09', '', '', '1F\nMatematica\n50', '4N\nMatematica\n57', '4N\nMatematica\n57']
+['H3', '1F\nMatematica\n50', '2F\nMatematica\nCAT-09', '', '2F\nMatematica\nCAT-09', '', '4F\nMatematica\nCAT-05']
+['H4', '4F\nMatematica\nCAT-05', '', '', '4F\nMatematica\nCAT-05', '', '1F\nMatematica\n50']
+
+====================
+--- Page 67 ---
+Header: ['IS Pascal Comandini', 'PIETROPINTO CARMELINA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '2C 1C 1C', 'H1 Diritto Diritto Diritto']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '2C\nDiritto\nCAT-05', '1C\nDiritto\n42', '', '1C\nDiritto\n42']
+['H2', 'Potenziamento', '', '2BIO\nDiritto\n43', '1B\nDiritto\nCAT-01', None, 'Potenziamento']
+['H3', 'Potenziamento', '', 'Potenziamento', 'Potenziamento', None, '2BIO\nDiritto\n43']
+['H4', '1B\nDiritto\nCAT-01', '1H\nDiritto\n56', '1BIO\nDiritto\n33', 'Potenziamento', None, '']
+
+====================
+--- Page 68 ---
+Header: ['IS Pascal Comandini', 'PIRACCINI ELENA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '5A 5A 5A 3A', 'H1 Italiano Italiano Italiano Italiano']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '5A\nItaliano\nC12', '5A\nItaliano\nC15', '3A\nItaliano\nC13', '', '5A\nItaliano\nC13', '3A\nItaliano\nC13']
+['H2', '4A\nItaliano\nC13', '', None, None, '5A\nItaliano\nC13', '3A\nItaliano\nC13']
+['H3', None, '4A\nItaliano\nC12', '3A\nItaliano\nC13', None, '', '5A\nItaliano\nC12']
+['H4', '3A\nItaliano\nC13', '', '4A\nItaliano\nC16', None, '', None]
+
+====================
+--- Page 69 ---
+Header: ['IS Pascal Comandini', 'PIRACCINI FRANCESCA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'H1', '3I 3I']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '', '', '', '']
+['H2', '', '', '3I\nInglese\n45', '3I\nInglese\n45', 'Potenziamento', '']
+['H3', '', '', '3E\nInglese\n53', '4I\nInglese\n44', '2I\nInglese\n55', '']
+['H4', '', 'Potenziamento', '2I\nInglese\n55', 'Potenziamento', '', '3E\nInglese\n53']
+
+====================
+--- Page 70 ---
+Header: ['IS Pascal Comandini', 'PULGA LUCA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'LUCCHI', 'MATTEO,']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', 'LUCCHI\nMATTEO,\nPULGA LUCA\n3E\nTPSIT\nLab 38', '', '', 'TAPPI\nFRANCESCO,\nPULGA LUCA\n3I\nINF\nLab 51', '']
+['H2', '', 'SINTUZZI\nMAURIZIO,\nPULGA LUCA\n3I\nTPSIT\nLab 38', '', '', None, None]
+['H3', '', 'LUCCHI\nMATTEO,\nPULGA LUCA\n4I\nSR\nLab 39', 'TAPPI\nFRANCESCO,\nPULGA LUCA\n3I\nINF\nLab 46', '', 'VENETI DAVID,\nPULGA LUCA\n3E\nINF\nLab 47', None]
+['H4', '', None, '', 'SINTUZZI\nMAURIZIO,\nPULGA LUCA\n5L\nSR\nLab 39', '', None]
+
+====================
+--- Page 71 ---
+Header: ['IS Pascal Comandini', 'RONDONI FRANCESCO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '1H 2A 2C 1H', 'H1 Italiano Italiano Italiano Italiano']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '1H\nItaliano\n56', '', '2A\nItaliano\n69', '2C\nItaliano\n69', '1H\nItaliano\n56', '']
+['H2', '', '2C\nItaliano\n55', '', '1H\nItaliano\n56', '', '']
+['H3', '2C\nItaliano\nCAT-07', '1H\nItaliano\n56', '1H\nItaliano\n56', None, '2C\nItaliano\nCAT-05', '']
+['H4', '2A\nItaliano\n69', '2A\nItaliano\n69', '2C\nItaliano\n78', '2A\nItaliano\n69', None, '']
+
+====================
+--- Page 72 ---
+Header: ['IS Pascal Comandini', 'RUSSO ANNAMARIA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'H1', '5N 3L 2A 1C 1A']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '5N\nScienze motorie\nPalestra2', '3L\nScienze motorie\nPalestra2', '2A\nScienze motorie\nPalestra2', '1C\nScienze motorie\nPalestra2', '1A\nScienze motorie\nPalestra2']
+['H2', '', None, None, None, None, None]
+['H3', '', '', '4N\nScienze motorie\nPalestra2', '3M\nScienze motorie\nCircolo2', '4L\nScienze motorie\nPalestra1', '']
+['H4', '', '', None, None, None, '2C\nScienze motorie\nPalestra2']
+
+====================
+--- Page 73 ---
+Header: ['IS Pascal Comandini', 'RUSSOTTO ALESSANDRO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '3BIO', '2I 2F RUSSOTTO']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '2I\nFisica\nLab Fisica', '2F\nFisica\nCAT-09', '3BIO\nFisica\nAmbientale\nCAT-03', 'RUSSOTTO\nALESSANDRO,\nVALENTI ENRICO\n1BIO\nFisica\nLab Fisica', '']
+['H2', '', '2I\nFisica\nLab Fisica', '', '', None, None]
+['H3', '2E\nFisica\nLab Fisica', '3BIO\nFisica\nAmbientale\nCAT-03', '', '1BIO\nFisica\n33', '2E\nFisica\n44', None]
+['H4', 'RUSSOTTO\nALESSANDRO,\nVALENTI ENRICO\n1A\nFisica\nLab Fisica', '', 'Potenziamento', '2F\nFisica\nLab Fisica', '2F\nFisica\nCAT-09', None]
+
+====================
+--- Page 74 ---
+Header: ['IS Pascal Comandini', 'SERVADEI EMMANUELE', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', "DALL'ARA", 'H1 JACOPO, NICOLAI']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', "DALL'ARA\nJACOPO,\nSERVADEI\nEMMANUELE\n5B\nEE\nL11", '', '', 'NICOLAI\nMASSIMO,\nSERVADEI\nEMMANUELE\n4A\nSIS\nL17', '', '']
+['H2', None, '', 'Potenziamento', None, '', '']
+['H3', 'NICOLAI\nMASSIMO,\nSERVADEI\nEMMANUELE\n5B\nSIS\nL17', 'TEODORANI\nFEDERICO,\nSERVADEI\nEMMANUELE\n5A\nEE\nL11', 'COMELLI\nPIERO,\nSERVADEI\nEMMANUELE\n4L\nTLC\nLab 23', None, '', '']
+['H4', None, None, None, '', 'COMELLI\nPIERO,\nSERVADEI\nEMMANUELE\n5A\nSIS\nL17', '']
+
+====================
+--- Page 75 ---
+Header: ['IS Pascal Comandini', 'SICA ERMINIA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '1I SICA ERMINIA, 1G', 'H1Chimica VOLTA Chimica']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '1I\nChimica\n38Bis', 'SICA ERMINIA,\nVOLTA\nALESSANDRA\n1I\nChimica\nLab Chimica', '1G\nChimica\n44', '', '', '']
+['H2', '2G\nChimica\nCAT-02', None, '2F\nChimica\nCAT-09', '', '', None]
+['H3', '2G\nChimica\nCAT-02', '', '', 'SICA ERMINIA,\nVOLTA\nALESSANDRA\n1F\nChimica\nLab Chimica', '1F\nChimica\n50', None]
+['H4', '2F\nChimica\nCAT-09', '', '2G\nChimica\nCAT-02', None, '2I\nChimica\n55', None]
+
+====================
+--- Page 76 ---
+Header: ['IS Pascal Comandini', 'SINTUZZI MAURIZIO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'H1', 'SINTUZZI']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '', '', '', '']
+['H2', '', 'SINTUZZI\nMAURIZIO,\nPULGA LUCA\n3I\nTPSIT\nLab 38', '', '4E\nSR\nLab 23', '', '']
+['H3', '', '4E\nSR\nLab 23', 'SINTUZZI\nMAURIZIO,\nTUCCILLO\nMARIA\nGRAZIA\n4E\nTPSIT\nLab 38', '5L\nSR\nLab 39', '', '3I\nTPSIT\n45']
+['H4', '', '', None, 'SINTUZZI\nMAURIZIO,\nPULGA LUCA\n5L\nSR\nLab 39', '3I\nTPSIT\n45', 'SINTUZZI\nMAURIZIO,\nFOSCHINI\nANDREA\n4E\nSR\nLab 39']
+
+====================
+--- Page 77 ---
+Header: ['IS Pascal Comandini', 'SIROTTI GIULIANA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '1G 1G 5G 1G', 'H1 Matematica Matematica Matematica Matematica']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '1G\nMatematica\nCAT-04', '1G\nMatematica\nCAT-06', '5G\nMatematica\nCAT-11', '1G\nMatematica\nCAT-07', '', '']
+['H2', '5G\nMatematica\n58', '2G\nMatematica\nCAT-02', '1G\nMatematica\nCAT-05', '2BIO\nMatematica\n43', '', '']
+['H3', '2BIO\nMatematica\n43', '2BIO\nMatematica\n43', '', '2G\nMatematica\nCAT-02', '', '']
+['H4', '3BIO\nMatematica\nCAT-03', '', '', '5G\nMatematica\n58', '2G\nMatematica\nCAT-02', '']
+
+====================
+--- Page 78 ---
+Header: ['IS Pascal Comandini', 'SOLOMITA PASQUALINO', 'LunedìMartedì Mercoledì Giovedì Venerdì Sabato', '2I', 'H1 TTRG']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '2I\nTTRG\nLab\nCAD', '', '2I\nTTRG\nLab 46', 'SOLOMITA\nPASQUALINO,\nVALZANIA\nSUSI\n1I\nTTRG\n78', '2G\nTTRG\nLab CAD', '2BIO\nTTRG\nLab CAD']
+['H2', None, None, 'SOLOMITA\nPASQUALINO,\nNOVELLI\nALESSANDRO\n1BIO\nTTRG\n33', None, None, None]
+['H3', '1I\nTTRG\n38Bis', None, '2G\nTTRG\nCAT-02', '1G\nTTRG\n38Bis', 'SOLOMITA\nPASQUALINO,\nNOVELLI\nALESSANDRO\n1G\nTTRG\nLab CAD', '']
+['H4', '', None, '', '', None, 'NOVELLI\nALESSANDRO,\nSOLOMITA\nPASQUALINO\n1BIO\nTTRG\n78']
+
+====================
+--- Page 79 ---
+Header: ['IS Pascal Comandini', 'SPIRITO FILIPPO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'H1', '5N 2I 2I']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '', '', '', '']
+['H2', '5N\nMatematica\nCAT-10', '', '2I\nMatematica\n55', '', '', '2I\nMatematica\n55']
+['H3', '3I\nMatematica\n45', '1I\nMatematica\n38Bis', '4I\nMatematica\n44', '', '', '']
+['H4', '4I\nMatematica\n44', '5N\nMatematica\nCAT-10', '3I\nMatematica\n45', '', '', '3I\nMatematica\n45']
+
+====================
+--- Page 80 ---
+Header: ['IS Pascal Comandini', 'STELLA QUINTO PIO', 'Lunedì MartedìMercoledì Giovedì Venerdì Sabato', 'ORFEI MARCO,', 'H1 STELLA']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '', 'ORFEI MARCO,\nSTELLA\nQUINTO PIO\n1A\nChimica\nLab Chimica', '', '']
+['H2', '', '', '', None, '', 'MUSCILLO\nANTONIETTA, STELLA\nQUINTO PIO\n1B\nChimica\nLab Chimica']
+['H3', '', '', '', '', '', None]
+['H4', '', '', '', '', '', 'MUSCILLO\nANTONIETTA, STELLA\nQUINTO PIO\n1H\nChimica\nLab Chimica']
+
+====================
+--- Page 81 ---
+Header: ['IS Pascal Comandini', 'SUCCI GRAZIELLA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'H1', '1BIO 5A 2D']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '', '', '', '']
+['H2', '1BIO\nMatematica\n33', '5A\nMatematica\nC15', '2D\nMatematica\nCAT-07', '', '', '']
+['H3', '', '3A\nMatematica\nC13', '1BIO\nMatematica\n33', '2D\nMatematica\nCAT-07', '4A\nMatematica\nC16', '']
+['H4', '5A\nMatematica\nC12', '4A\nMatematica\nC12', '', '1BIO\nMatematica\n33', '3A\nMatematica\nC13', '']
+
+====================
+--- Page 82 ---
+Header: ['IS Pascal Comandini', 'TAGARELLI GIACOMO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'TEODORANI', 'H1 FEDERICO,']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', 'TEODORANI\nFEDERICO,\nTAGARELLI\nGIACOMO\n3A\nTPSE\nL03', '', '', '', '', 'TEODORANI\nFEDERICO,\nTAGARELLI\nGIACOMO\n4A\nEE\nL11']
+['H2', None, 'Potenziamento', None, "DALL'ARA\nJACOPO,\nTAGARELLI\nGIACOMO\n3B\nTPSE\nL03", 'Potenziamento', None]
+['H3', None, 'Potenziamento', None, None, 'Potenziamento', 'Potenziamento']
+['H4', '', '', None, None, 'CANDUCCI\nLEONARDO,\nTAGARELLI\nGIACOMO\n4A\nTPSE\nL03', 'Potenziamento']
+
+====================
+--- Page 83 ---
+Header: ['IS Pascal Comandini', 'TAPPI FRANCESCO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '5L TAPPI', 'H1 INF FRANCESCO,']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '', '5L\nINF\nLab 51', 'TAPPI\nFRANCESCO,\nPULGA LUCA\n3I\nINF\nLab 51', '']
+['H2', 'TAPPI\nFRANCESCO,\nBRIGHI\nALBERTO\n5L\nINF\nLab 46', '', '5G\nINF\nCAT-11', '', None, '3I\nINF\n45']
+['H3', None, '', 'TAPPI\nFRANCESCO,\nPULGA LUCA\n3I\nINF\nLab 46', '3I\nINF\n45', '5L\nINF\n48', '']
+['H4', '5G\nINF\nLab 51', '', 'TAPPI\nFRANCESCO,\nBRIGHI\nALBERTO\n5L\nINF\nLab 46', '3I\nINF\nLab 47', '5G\nINF\n58', 'TAPPI\nFRANCESCO,\nTONETTI\nTIBERIO\n5G\nINF\nLab 46']
+
+====================
+--- Page 84 ---
+Header: ['IS Pascal Comandini', 'TEODORANI FEDERICO', 'Lunedì Martedì MercoledìGiovedìVenerdì Sabato', '4A 3I 4A TEODORANI', 'H1 EE TLC EE FEDERICO,']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', 'TEODORANI\nFEDERICO,\nTAGARELLI\nGIACOMO\n3A\nTPSE\nL03', '4A\nEE\nL11', '', '3I\nTLC\n45', '4A\nEE\nC16', 'TEODORANI\nFEDERICO,\nTAGARELLI\nGIACOMO\n4A\nEE\nL11']
+['H2', None, '4A\nEE\nL11', None, '', '', None]
+['H3', None, 'TEODORANI\nFEDERICO,\nSERVADEI\nEMMANUELE\n5A\nEE\nL11', None, '5A\nEE\nC16', '5A\nEE\nC13', '3A\nTPSE\nL03']
+['H4', 'TEODORANI\nFEDERICO,\nTONINI TIZIANO\n3I\nTLC\nLab 23', None, None, '', '', '']
+
+====================
+--- Page 85 ---
+Header: ['IS Pascal Comandini', 'TONELLI ALBERTO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '1D 2D', 'H1 Italiano Italiano']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '1D\nItaliano\nCAT-04', '1D\nItaliano\nCAT-04', '', '', '2D\nItaliano\nCAT-07']
+['H2', None, '1G\nItaliano\nCAT-06', None, '1G\nItaliano\nCAT-07', '1G\nItaliano\nCAT-04', '']
+['H3', None, '2D\nItaliano\nCAT-07', '1G\nItaliano\nCAT-05', '1D\nItaliano\nCAT-04', '1D\nItaliano\nCAT-04', '1D\nItaliano\nCAT-04']
+['H4', None, '', '', '2D\nItaliano\nCAT-07', '2D\nItaliano\nCAT-07', '1G\nItaliano\n54']
+
+====================
+--- Page 86 ---
+Header: ['IS Pascal Comandini', 'TONETTI TIBERIO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'LUCCHI', 'GIANNI,']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', 'LUCCHI\nMATTEO,\nTONETTI\nTIBERIO\n5E\nTPSIT\nLab 38', '', 'LUCCHI\nGIANNI,\nTONETTI\nTIBERIO\n4F\nTPSIT\nLab 38', '', 'LUCCHI\nGIANNI,\nTONETTI\nTIBERIO\n5G\nSR\nLab 39', 'LUCCHI\nGIANNI,\nTONETTI\nTIBERIO\n5G\nSR\nLab 39']
+['H2', None, '', None, '', '', None]
+['H3', '', '', 'FUSAROLI\nCHIARA,\nTONETTI\nTIBERIO\n1E\nTI\nLab LT', '', 'BOCCHINI\nMARCELLO,\nTONETTI\nTIBERIO\n1I\nTI\nLab LT', 'LUCCHI\nMATTEO,\nTONETTI\nTIBERIO\n5E\nTPSIT\nLab 38']
+['H4', '', '', None, 'FUSAROLI\nCHIARA,\nTONETTI\nTIBERIO\n5E\nINF\nLab 51', None, 'TAPPI\nFRANCESCO,\nTONETTI\nTIBERIO\n5G\nINF\nLab 46']
+
+====================
+--- Page 87 ---
+Header: ['IS Pascal Comandini', 'TONINI TIZIANO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'COMELLI NUCCI', 'H1 NUCCI SIMONE, PIERO, SIMONE,']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', 'NUCCI SIMONE,\nTONINI TIZIANO\n4E\nTLC\nLab 23', 'COMELLI\nPIERO,\nTONINI\nTIZIANO\n4I\nTLC\nLab 23', '', '', 'NUCCI\nSIMONE,\nTONINI\nTIZIANO\n3L\nTLC\nLab 23', '']
+['H2', None, None, '', '', None, 'NUCCI\nSIMONE,\nTONINI\nTIZIANO\n3E\nTLC\nLab 23']
+['H3', 'Potenziamento', '', '', '', 'NUCCI\nSIMONE,\nTONINI\nTIZIANO\n4F\nTLC\nLab 23', None]
+['H4', 'TEODORANI\nFEDERICO,\nTONINI TIZIANO\n3I\nTLC\nLab 23', '', 'Potenziamento', '', None, 'NUCCI\nSIMONE,\nTONINI\nTIZIANO\n3M\nTLC\nLab 23']
+
+====================
+--- Page 88 ---
+Header: ['IS Pascal Comandini', 'TORELLI GIACOMO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '4B 3B 3B', 'H1 Italiano Italiano Italiano']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '4B\nItaliano\nC15', '3B\nItaliano\nC14', '3B\nItaliano\nC15', '']
+['H2', None, '', '3B\nItaliano\nC16', '', '4B\nItaliano\nC14', '5B\nItaliano\nC12']
+['H3', None, '4B\nItaliano\nC14', '', '5B\nItaliano\nC12', None, '3B\nItaliano\nC16']
+['H4', None, '3B\nItaliano\nC15', '5B\nItaliano\nC12', '4B\nItaliano\nC14', '', None]
+
+====================
+--- Page 89 ---
+Header: ['IS Pascal Comandini', 'TUCCILLO MARIA GRAZIA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'VACCARI', 'ANDREA,']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', 'VACCARI\nANDREA,\nTUCCILLO\nMARIA\nGRAZIA\n4I\nINF\nLab 51', '', 'VACCARI\nANDREA,\nTUCCILLO\nMARIA\nGRAZIA\n4I\nINF\nLab 51', '', '', '']
+['H2', '', '', None, '', '', 'MOLARA\nFEDERICO,\nTUCCILLO\nMARIA GRAZIA\n5H\nINF\nLab 47']
+['H3', '', '', 'SINTUZZI\nMAURIZIO,\nTUCCILLO\nMARIA\nGRAZIA\n4E\nTPSIT\nLab 38', 'NUCCI\nSIMONE,\nTUCCILLO\nMARIA\nGRAZIA\n1A\nTI\nLab LT', 'VENTURI\nFRANCESCO,\nTUCCILLO\nMARIA GRAZIA\n4E\nINF\nLab 46', 'VENTURI\nFRANCESCO,\nTUCCILLO\nMARIA GRAZIA\n4E\nINF\nLab 46']
+['H4', 'CASADEI\nLUCA,\nTUCCILLO\nMARIA\nGRAZIA\n5N\nTPSIT\nLab 38', '', None, None, None, '']
+
+====================
+--- Page 90 ---
+Header: ['IS Pascal Comandini', 'VACCARI ANDREA', 'Lunedì Martedì Mercoledì GiovedìVenerdìSabato', 'VACCARI ANDREA,', 'TUCCILLO MARIA']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', 'VACCARI ANDREA,\nTUCCILLO MARIA\nGRAZIA\n4I\nINF\nLab 51', '', 'VACCARI ANDREA,\nTUCCILLO MARIA\nGRAZIA\n4I\nINF\nLab 51', '', '', '']
+['H2', '', '', None, '', '', None]
+['H3', 'VACCARI ANDREA,\nOLANDESE\nPASQUALE\n1H\nTI\nLab LT', '', '', '', '4I\nINF\n78', None]
+['H4', None, '1BIO\nTI\n33', '4I\nINF\n44', '4I\nINF\nLab 23', '1F\nTI\n50', None]
+
+====================
+--- Page 91 ---
+Header: ['IS Pascal Comandini', 'VACCARI BERNARDO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'H1', '4B 1BIO 1D 3B']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '4B\nScienze motorie\nSabbioneA', '', '1BIO\nScienze motorie\nPalestra1', '1D\nScienze motorie\nPalestra1', '3B\nScienze motorie\nPalestraComA']
+['H2', '2D\nScienze motorie\nPalestra2', None, '', None, None, None]
+['H3', None, '', '', '', '2BIO\nScienze motorie\nPalestra2', '']
+['H4', '', '', '', '3BIO\nScienze motorie\nPalestra2', None, '5B\nScienze motorie\nPalestraComB']
+
+====================
+--- Page 92 ---
+Header: ['IS Pascal Comandini', 'VALDINOSI MICHELE', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'H1', 'VALDINOSI']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '', '', '', '']
+['H2', '', 'VALDINOSI\nMICHELE,\nFOSCHI\nLORENZO\n5B\nTPSE\nL03', '', '', 'VALDINOSI\nMICHELE,\nFOSCHI\nLORENZO\n5B\nTPSE\nL03', '']
+['H3', '3B\nEE\nC15', None, '', '', None, '']
+['H4', None, None, 'VALDINOSI\nMICHELE,\nFOSCHI\nLORENZO\n4B\nTPSE\nL03', '5B\nTPSE\nC12', 'VALDINOSI\nMICHELE,\nMONTALTI\nGIOVANNI\n3B\nEE\nL11', '']
+
+====================
+--- Page 93 ---
+Header: ['IS Pascal Comandini', 'VALENTI ENRICO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'CASILE VALENTI RUSSOTTO', 'H1 ROBERTA, ENRICO, DI ALESSANDRO,']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', 'CASILE\nROBERTA,\nVALENTI\nENRICO\n1D\nFisica\nLab Fisica', '', 'VALENTI\nENRICO, DI\nSAVINO\nSILVIO\n1I\nFisica\nLab Fisica', '', 'RUSSOTTO\nALESSANDRO,\nVALENTI\nENRICO\n1BIO\nFisica\nLab Fisica', '']
+['H2', None, '', None, None, None, 'DANESI\nANTONIO,\nVALENTI\nENRICO\n1G\nFisica\nLab Fisica']
+['H3', '', 'DANESI\nANTONIO,\nVALENTI\nENRICO\n1F\nFisica\nLab Fisica', 'DI SAVINO\nSILVIO,\nVALENTI\nENRICO\n1B\nFisica\nLab Fisica', None, 'DANESI\nANTONIO,\nVALENTI\nENRICO\n1H\nFisica\nLab Fisica', None]
+['H4', 'RUSSOTTO\nALESSANDRO,\nVALENTI\nENRICO\n1A\nFisica\nLab Fisica', None, None, None, None, 'DI SAVINO\nSILVIO,\nVALENTI\nENRICO\n1E\nFisica\nLab Fisica']
+
+====================
+--- Page 94 ---
+Header: ['IS Pascal Comandini', 'VALZANIA SUSI', 'LunedìMartedìMercoledì Giovedì VenerdìSabato', 'H1 SOLOMITA PASQUALINO, VALZANIA SUSI', '1I']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '', 'SOLOMITA PASQUALINO, VALZANIA SUSI\n1I\nTTRG\n78', '', '']
+['H2', '', '', '', None, '', '']
+['H3', '', '', '', '', '', '']
+['H4', '', '', '', '', '', '']
+
+====================
+--- Page 95 ---
+Header: ['IS Pascal Comandini', 'VENDRAMINETTO LAURA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '2F 2F 5N 2F 1G', 'H1 Inglese Inglese Inglese Inglese Inglese']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '2F\nInglese\nCAT-09', '2F\nInglese\nCAT-09', '5N\nInglese\nCAT-10', '2F\nInglese\nCAT-09', '', '1G\nInglese\nCAT-01']
+['H2', '', '4F\nInglese\nCAT-05', 'Potenziamento', '4F\nInglese\nCAT-05', '', '5N\nInglese\nCAT-10']
+['H3', 'Potenziamento', '', '1F\nInglese\n50', 'Potenziamento', '', '1F\nInglese\n50']
+['H4', '1G\nInglese\nCAT-04', '', '1G\nInglese\nCAT-05', '5N\nInglese\nCAT-10', '', '']
+
+====================
+--- Page 96 ---
+Header: ['IS Pascal Comandini', 'VENETI DAVID', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'H1', 'VENETI DAVID,']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '', '', '', '']
+['H2', '3I\nSR\n45', '', 'VENETI DAVID,\nBRIGHI\nALBERTO\n5E\nSR\nLab 39', '5E\nSR\n25', '3E\nINF\nLab 47', '']
+['H3', '3E\nINF\nLab 51', '5H\nSR\nCAT-11', 'VENETI DAVID,\nFOSCHINI\nANDREA\n5H\nSR\nLab 39', '3E\nINF\nCAT-11', 'VENETI\nDAVID,\nPULGA\nLUCA\n3E\nINF\nLab 47', '']
+['H4', 'VENETI DAVID,\nBRIGHI\nALBERTO\n5E\nSR\nLab 39', '', None, '', '', '']
+
+====================
+--- Page 97 ---
+Header: ['IS Pascal Comandini', 'VENTURI FRANCESCO', 'Lunedì Martedì MercoledìGiovedì Venerdì Sabato', 'VENTURI 4E 3E VENTURI', 'H1 FRANCESCO, INF SR FRANCESCO,']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', 'VENTURI\nFRANCESCO,\nFOSCHINI\nANDREA\n3E\nSR\nLab LT', '4E\nINF\nLab 46', '3E\nSR\nLab LT', '', '', 'VENTURI\nFRANCESCO,\nFOSCHINI\nANDREA\n3M\nSR\nLab LT']
+['H2', None, '3M\nSR\nLab 39', '4E\nINF\nLab 46', '', '', None]
+['H3', '4E\nINF\nLab 23', '', '', '', 'VENTURI\nFRANCESCO,\nTUCCILLO\nMARIA GRAZIA\n4E\nINF\nLab 46', 'VENTURI\nFRANCESCO,\nTUCCILLO\nMARIA GRAZIA\n4E\nINF\nLab 46']
+['H4', '3E\nSR\n53', '', '', '', None, '4F\nSR\nLab LT']
+
+====================
+--- Page 98 ---
+Header: ['IS Pascal Comandini', 'VOLTA ALESSANDRA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'H1', 'SICA']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', 'SICA\nERMINIA,\nVOLTA\nALESSANDRA\n1I\nChimica\nLab Chimica', '', '', '', '']
+['H2', 'LUCCHI\nARIANNA,\nVOLTA\nALESSANDRA\n3BIO\nOrganica\nLab Chimica', None, '', '', '', '']
+['H3', 'LUCCHI\nARIANNA,\nVOLTA\nALESSANDRA\n1BIO\nChimica\nLab Chimica', '', 'LUCCHI\nARIANNA,\nVOLTA\nALESSANDRA\n3BIO\nAnalitica\nLab Chimica', 'SICA\nERMINIA,\nVOLTA\nALESSANDRA\n1F\nChimica\nLab Chimica', 'GAMBERONI\nMATTEO,\nVOLTA\nALESSANDRA\n3BIO\nBiologia\nLab Chimica', '']
+['H4', None, 'MUSCILLO\nANTONIETTA,\nVOLTA\nALESSANDRA\n1E\nChimica\nLab Chimica', None, None, None, '']
+
+====================
+--- Page 99 ---
+Header: ['IS Pascal Comandini', 'ZAMPIGA MONICA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '5H 1B 5H', 'H1 Italiano Italiano Italiano']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '5H\nItaliano\nCAT-11', '5H\nItaliano\nCAT-11', '', '1B\nItaliano\nCAT-01', '5H\nItaliano\n28', '']
+['H2', None, '1C\nItaliano\n42', None, '', '', '1C\nItaliano\n42']
+['H3', '1B\nItaliano\nCAT-01', '', None, '1C\nItaliano\n42', '1B\nItaliano\nCAT-01', '5H\nItaliano\nCAT-11']
+['H4', '1C\nItaliano\n42', '', None, None, '1B\nItaliano\nCAT-01', '1B\nItaliano\nCAT-01']
+
+====================
+--- Page 100 ---
+Header: ['IS Pascal Comandini', 'ZANARINI LAURA', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', '5G 3M 2G 3BIO', 'H1 Inglese Inglese Inglese Inglese']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '5G\nInglese\n58', '', '3M\nInglese\nCAT-06', '2G\nInglese\nCAT-02', '3BIO\nInglese\nCAT-03', '']
+['H2', '', 'Potenziamento', 'Potenziamento', '5G\nInglese\n58', '5G\nInglese\n58', None]
+['H3', '', '2G\nInglese\nCAT-02', 'Potenziamento', '3BIO\nInglese\nCAT-03', '', None]
+['H4', '3M\nInglese\nCAT-06', '2BIO\nInglese\n43', '2BIO\nInglese\n43', '2G\nInglese\nCAT-02', '', None]
+
+====================
+--- Page 101 ---
+Header: ['IS Pascal Comandini', 'ZANI LARA', 'Lunedì Martedì Mercoledì Giovedì VenerdìSabato', 'H1', 'BIONDI CARLO,']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '', '', '', '']
+['H2', '', '', '', 'BIONDI CARLO,\nZANI LARA\n5L\nGPOI\nLab 51', '', '']
+['H3', '', 'GRECO TONI, ZANI\nLARA\n4F\nINF\nLab 46', 'MOLARA FEDERICO,\nZANI LARA\n3M\nINF\nLab 47', 'BIONDI CARLO,\nZANI LARA\n5H\nGPOI\nLab 51', '', '']
+['H4', '', None, None, '', '', '']
+
+====================
+--- Page 102 ---
+Header: ['IS Pascal Comandini', 'ZOFFOLI LORENZO', 'Lunedì Martedì Mercoledì Giovedì Venerdì Sabato', 'H1', '5H 4I']
+Table sample (first 5 rows):
+['', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato']
+['H1', '', '', '5H\nScienze motorie\nPalestra1', '4I\nScienze motorie\nCircolo1', '', '']
+['H2', '', '', None, None, '', None]
+['H3', '', '2I\nScienze motorie\nPalestra1', '', '1I\nScienze motorie\nCircolo1', '', None]
+['H4', '', None, '', None, '', None]
+
+====================
