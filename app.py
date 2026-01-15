@@ -1,165 +1,44 @@
-docenti = ["ABBONDANZA NICOLETTA",
- "AMENDOLA SERENA", 
- "ANDRETTI ELISABETTA", 
- "ANTARIDI SARA", 
- "BARAGHINI ANNALISA", 
- "BARONIO BARBARA", 
- "BENINI BARBARA", 
- "BIONDI CARLO", 
- "BISACCHI ANTONELLA", 
- "BOCCHINI MARCELLO", 
- "BRANDOLINI ELENA", 
- "BRIGHI ALBERTO", 
- "CANDUCCI LEONARDO", 
- "CARANO STEFANIA", 
- "CARLUCCI ADRIANO", 
- "CASADEI ELENA", 
- "CASADEI LUCA", 
- "CASILE ROBERTA", 
- "CASTAGNOLI ENRICO", 
- "COMELLI PIERO", 
- "CRASCI CARMELO", 
- "CRUCIANO MARCELLO", 
- "DALL'ARA JACOPO", 
- "DANESI ANTONIO", 
- "DI SAVINO SILVIO", 
- "FAGIOLI ENRICO", 
- "FERRARO GRAZIELLA", 
- "FILOMENA FRANCESCO", 
- "FORTI ELISA", 
- "FOSCHI LORENZO", 
- "FOSCHINI ANDREA", 
- "FUSAROLI CHIARA", 
- "GAGLIARDI ELEONORA", 
- "GALLINUCCI MORENA", 
- "GAMBERONI MATTEO", 
- "GARDELLI MARIA GRAZIA", 
- "GASPERONI PAOLA", 
- "GIOVANNINI VALENTINA", 
- "GORRASI ROSAMARIA", 
- "GRADARA SARA", 
- "GRECO TONI", 
- "GUADAGNO GRAZIA", 
- "GUALTIERI THOMAS", 
- "LENZI BARBARA", 
- "LUCCHI ARIANNA", 
- "LUCCHI GIANNI", 
- "LUCCHI MATTEO", 
- "LUMINI CINZIA", 
- "LUMINI PAOLO", 
- "MAZZOTTI IVAN", 
- "MELAGRANATI LORENZO", 
- "MINGOZZI CATIA", 
- "MOLARA FEDERICO", 
- "MONFREDA VITO", 
- "MONTALTI GIOVANNI", 
- "MUSCILLO ANTONIETTA", 
- "NICOLAI MASSIMO", 
- "NOVELLI ALESSANDRO", 
- "NUCCI SIMONE", 
- "OLANDESE PASQUALE", 
- "ORDINELLI ALESSANDRA", 
- "ORFEI MARCO", 
- "PARINI EMANUELE", 
- "PIETROPINTO CARMELINA", 
- "PIRACCINI ELENA", 
- "PIRACCINI FRANCESCA", 
- "PULGA LUCA", 
- "RONDONI FRANCESCO", 
- "RUSSO ANNAMARIA", 
- "RUSSOTTO ALESSANDRO", 
- "SERVADEI EMMANUELE", 
- "SICA ERMINIA", 
- "SINTUZZI MAURIZIO", 
- "SIROTTI GIULIANA", 
- "SOLOMITA PASQUALINO", 
- "SPIRITO FILIPPO", 
- "STELLA QUINTO PIO", 
- "SUCCI GRAZIELLA", 
- "TAGARELLI GIACOMO", 
- "TAPPI FRANCESCO", 
- "TEODORANI FEDERICO", 
- "TONELLI ALBERTO", 
- "TONETTI TIBERIO", 
- "TONINI TIZIANO", 
- "TORELLI GIACOMO", 
- "TUCCILLO MARIA GRAZIA", 
- "VACCARI ANDREA", 
- "VACCARI BERNARDO", 
- "VALDINOSI MICHELE", 
- "VALENTI ENRICO", 
- "VALZANIA SUSI", 
- "VENDRAMINETTO LAURA", 
- "VENETI DAVID", 
- "VENTURI FRANCESCO", 
- "VOLTA ALESSANDRA", 
- "ZAMPIGA MONICA", 
- "ZANARINI LAURA", 
- "ZANI LARA", 
- "ZOFFOLI LORENZO"]
+from flask import Flask, flash, redirect, render_template, request, session, url_for
+import json
+import datetime
+import os
+days = {"Mon": "Lun", "Tue": "Mar", "Wed": "Mer", "Thu": "Gio", "Fri": "Ven", "Sat": "Sab"}
+hours = {'08' : 'I', '09' : 'II', '10' : 'III', '11' : 'IV', '12' : 'V', '13' : 'VI'}
+daynumber = {'Lun': 0, 'Mar': 1, 'Mer': 2, 'Gio': 3, 'Ven': 4, 'Sab': 5}
 
-for d in docenti:
-    with open(f'{d}.json', 'w') as f:
-        f.write("""{
-    "orario": [
-        {
-            "Lun": {
-                "I": null,
-                "II": null,
-                "III": null,
-                "IV": null,
-                "V": null,
-                "VI": null
-            }
-        },
-        {
-            "Mar": {
-                "I": null,
-                "II": null,
-                "III": null,
-                "IV": null,
-                "V": null,
-                "VI": null
-            }
-        },
-        {
-            "Mer": {
-                "I": null,
-                "II": null,
-                "III": null,
-                "IV": null,
-                "V": null,
-                "VI": null
-            }
-        },
-        {
-            "Gio": {
-                "I": null,
-                "II": null,
-                "III": null,
-                "IV": null,
-                "V": null,
-                "VI": null
-            }
-        },
-        {
-            "Ven": {
-                "I": null,
-                "II": null,
-                "III": null,
-                "IV": null,
-                "V": null,
-                "VI": null
-            }
-        },
-        {
-            "Sab": {
-                "I": null,
-                "II": null,
-                "III": null,
-                "IV": null,
-                "V": null
-            }
-        }
-    ]
-}""")
+def getInfo(day, hour):
+    if day not in days or hour not in hours:
+        return [7, 7]
+    return [days[day], hours[hour]]
+
+def getRoom(data):
+    info = getInfo(datetime.datetime.now().strftime("%a"), datetime.datetime.now().strftime("%H"))
+    return dat['orario']
+    
+with open("teachers.txt", "r") as f:
+    names = f.read().splitlines()
+app = Flask(__name__)
+app.secret_key = "chiavesegretasnabl"
+
+
+@app.route("/")
+def home():
+    return render_template("index.html", namesArray=names)
+
+@app.route("/schedule")
+def schedule():
+    name = request.args.get("name")
+    if name:
+        filename = f"{name}.json"
+        filepath = os.path.join("schedules", filename)
+        if os.path.exists(filepath):
+            with open(filepath, "r") as f:
+                data = json.load(f)
+            
+            
+            return render_template("schedule.html", json=data, name=name, info=info)
+    return "Schedule not found", 404
+
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=5000, debug=True)
