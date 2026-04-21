@@ -36,7 +36,7 @@ def schedule():
                 data = json.load(f)
             
             
-            return render_template("schedule.html", json=data, name=name, info=info)
+            return render_template("schedule.html", json=data, name=name)
     return "Schedule not found", 404
 
 
